@@ -1,4 +1,4 @@
-# RESO — Academic Resource Hub
+# RESO Academic Resource Hub
 
 RESO (Resource) is a high-performance, decentralized academic repository designed for the Chaitanya Bharathi Institute of Technology (CBIT). It streamlines access to notes, question papers, and academic schedules through a modern, synchronized user experience.
 
