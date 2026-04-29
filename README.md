@@ -4,7 +4,7 @@ RESO (Resource) is a high-performance, decentralized academic repository designe
 
 ---
 
-## 🌍 Vision & Purpose
+##  Vision & Purpose
 The platform was built to solve the fragmentation of academic materials. By providing a "Single Source of Truth" that automatically syncs with a student's department and semester, RESO reduces discovery time from minutes to seconds.
 
 ---
@@ -29,21 +29,21 @@ To ensure the platform is incredibly fast, secure, and easy to maintain, RESO wa
 *   **Supabase Auth:** Handles secure student/faculty login and session management.
 *   **Node.js & Express.js:** The core API layer handling business logic, file processing, and security middleware.
 
-### 🛡️ Enterprise-Grade Security
+###  Enterprise-Grade Security
 RESO implements a multi-layer security architecture to protect student data and platform integrity:
 *   **Row Level Security (RLS)**: Enforced at the database level. Users can only modify resources they personally uploaded.
 *   **Role-Based Access (RBAC)**: Students, Faculty, and Admins have distinct permission tiers.
 *   **Content Hashing**: Uses SHA-256 to flag duplicate uploads and ensure file integrity.
 *   **Rate Limiting**: Intelligent throttling to prevent DDoS and automated scraping.
 
-### 📈 Modern Roadmap
+###  Modern Roadmap
 1.  **Phase 1 (Complete):** Core architecture, Curriculum syncing, Reader View, and Search.
 2.  **Phase 2 (Complete):** Secure Auth, Resource Upload, and Ownership Management (RLS).
 3.  **Phase 3 (Upcoming):** AI-Powered Summaries, Community Ratings, and Dark Mode optimization.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 *   **Smart Sync:** Automatically detects your department/semester and filters the entire app to match.
 *   **Global Search:** Ultra-fast, full-text search across all subject titles and descriptions.
 *   **Paper Archive:** Dedicated portal for mid-term and semester-end question papers.
@@ -52,7 +52,7 @@ RESO implements a multi-layer security architecture to protect student data and 
 
 ---
 
-## 🚀 Deployment & Scaling
+##  Deployment & Scaling
 RESO is designed for horizontal scaling. The separation of the frontend (Vite) and backend (Express) allows each to be deployed independently (e.g., Vercel + Railway/Render), while Supabase handles the heavy lifting of database management and file storage.
 
 > A centralized platform where CBIT students and faculty upload, organize, and search academic resources — consolidating scattered educational materials into one searchable, community-driven hub.
@@ -651,7 +651,7 @@ NODE_ENV=development
 CORS_ORIGIN=http://localhost:5173
 ```
 
-> ⚠️ **Never** commit `.env` files. `SUPABASE_SERVICE_ROLE_KEY` is a server-only secret that bypasses RLS — never expose it to the frontend.
+>  **Never** commit `.env` files. `SUPABASE_SERVICE_ROLE_KEY` is a server-only secret that bypasses RLS — never expose it to the frontend.
 
 ---
 
