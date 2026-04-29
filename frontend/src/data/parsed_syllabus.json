@@ -1,0 +1,1824 @@
+{
+  "22MTC01": [
+    {
+      "title": "UNIT - I - Partial Differentiation and Its Applications",
+      "content": "Functions of two or more variables, Partial  derivatives, Higher order partial derivatives, Total derivative, Differentiation of implicit functions, Jacobians, Taylor’s expansion of functions of two variables, Maxima and minima of functions of two variables."
+    },
+    {
+      "title": "UNIT - II - Vector Differential Calculus and  multiple Integrals",
+      "content": "Scalar and Vector point functions, vector operator Del, Gradient, Directional derivative, Divergence, Curl, Del applied twice to point functions, Del applied to product of point functions (vector identities), Irrotational fields  and  Sol enoidal   fields, Double integral, Change of order of Integration  and Triple integrals."
+    },
+    {
+      "title": "UNIT - III - Vector Integral Calculus",
+      "content": "Line integral, Surface integral and Volume integral. Verification of Green’s theorem in a plane (without proof), verification of Stro ke’s theorem (without proof) and Gauss’s divergence theorem (without proof)."
+    },
+    {
+      "title": "UNIT - IV - Vector space",
+      "content": "Vector space, Subspace, linear combination of vectors, linear span, row and column spaces,  linear  dependent,  independent  vectors,  basis,  dimension,  linear  transformation,  invertible transformation, matrix of linear transformation, kernel and range of LT, rank and nullity of LT - rank Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING nullity theorem(without proof), change of basis."
+    },
+    {
+      "title": "UNIT - V - Matrices",
+      "content": "Rank of a matrix, Echelon form, consistency of linear System   of equations, Eigen values, Eigenvectors, Properties of Eigen values, Cayley - Hamilton theorem, Quadratic forms, Reduction of quadratic form to canonical form by linear transformation, Nature of quadratic form."
+    }
+  ],
+  "22PYC01": [
+    {
+      "title": "UNIT - I - Wave Optics",
+      "content": "Huygen’s principle  – Super position of waves  – Interference of light by wave front splitting and amplitude  splitting – Fresnel’s biprism  –   Interference in thin films in reflected light – Newton’s rings –   Fraunhofer diffraction from a single slit  – Double slit diffraction  –   Rayleigh criterion for limit of resolution –   Concept of N - slits – Diffraction grating and its res olving power."
+    },
+    {
+      "title": "UNIT - II - Lasers & Holography",
+      "content": "Characteristics of lasers  –   Einstein’s coefficients  – Amplification of light by  population inversion  – Different types of lasers: solid - state lasers: Ruby & Nd:YAG; gas lasers: He - Ne  &  CO ;  semiconductor  laser  –   Applications  of  lasers  in  engineering  and  medicine. 2 Holography: Principle  –   Recording and reconstruction – Applications. Fiber Optics:  Introduction  –   Construction  –   Principle  –   Propagation of light through an optical fiber  –   Numerical aperture and acceptance   angle  – Step - index and graded - index fibers  – Pulse dispersion  – Fiberlosses -- Fiber optic communication system  – Applications."
+    },
+    {
+      "title": "UNIT - III - Principles of Quantum Mechanics",
+      "content": "Introduction  –   Wave  nature  of  particles  –   de - Broglie hypothesis  –   Physical significance of   ψ  –   Time - dependent and time - independent Schrodinger equations  –   Born interpretation  –   Probability current  – Wave packets  – Uncertainty principle  – Particle in infinite square well potential  – Scattering from potential step  –   Potential barrier and tunneling. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING U NIT - IV Band Theory of Solids:  Salient  features  of  free  electron  theory  of  metals  (Classical  and Quantum)  –   Fermi level  – Density of states  –   Bloch’s theorem for particles in a periodic potential –   Kronig - Penney model  –   Classification of solids: metals, sem iconductors and insulators."
+    },
+    {
+      "title": "UNIT - V - Semiconductors",
+      "content": "Intrinsic  and  extrinsic  semiconductors  –   Charge  carrier  concentration  in intrinsic semiconductors  –   Dependence of Fermi level on carrier concentration and temperature in  extrinsic  semiconductors  (qualita tive)  –   Carrier  generation  and  recombination  –   Carrier transport: diffusion and drift  –   P - N junction  –   Thermistor  –   Hall effect  –   LED  –   Solar cell."
+    }
+  ],
+  "22CSC01N": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "Introduction  to  Programming,  Idea  of  Algorithm,  Representation  of  Algorithm, Flowchart, from algorithms to programs, source  code. Basics of C:  Background, Structure of a C Program, Datatypes, Tokens, Operators and Expressions - Evaluating Expressions, Precedence and Associativity of Operators, Type Conversions, Input and Output Functions."
+    },
+    {
+      "title": "UNIT - II - Control Statements ",
+      "content": "Conditional Execution  - Selection Statements, Conditional Operator, Switch statement .  Iteration Execution  -   While Construct, For Construct, do - while Construct   Goto Statement, Special Control Statements, Nested Loops. Arrays:   One - Dimensional  Arrays - Declarati on,  Initialization,  internal  representation. Multidimensional Arrays."
+    },
+    {
+      "title": "UNIT – III - Strings",
+      "content": "Strings: One - dimensional Character Arrays , Arrays of Strings: Two - dimensional Character Array. Functions:  Concept, Uses, Prototype, Declaration, Parameter passing techn iques, Passing Arrays to Functions, Storage Classes, Recursion."
+    },
+    {
+      "title": "UNIT - IV - Search and Sorting",
+      "content": "searching algorithms - linear, binary .sorting algorithms - bubble sort, selection sort. Pointers:  Declaring a Pointer, Initializing Pointers, Indirection Operator and   Dereferencing, Arrays and Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Pointers, Pointers and Strings, Pointers to Pointers, Array of Pointers, Pointers to an Array, Two - dimensional Arrays and Pointers, Pointers to Functions and Dynamic Memory Allocation."
+    },
+    {
+      "title": "UNIT – V - Userdefined Datatypes",
+      "content": "Structures -   D eclaring Structures  and Structure Variables, Accessing the Members of a Structure, Initialization of Structures, Typedef, Nesting of Structures, Arrays  and Structures, Structures and Pointers, Structures and Functions, Union, Enumeration Types. Files:  Usi ng Files in C, Declaration of File Pointer, Working with Text Files, Character Input and Output, Working with Binary Files, Sequential Versus Random File Access, File Record."
+    }
+  ],
+  "22EGC01N": [
+    {
+      "title": "UNIT - I - Communication  Skills",
+      "content": "Introduction,  nature  and  importance  of  communication;  Process  of communication;  Types  of  communication:  verbal  and  non - verbal;  Barriers  to  communication; Intrapersonal,  Interperso nal  communication;  Understanding  Johari  Window.   Vocabulary  & Grammar:   The concept of Word Formation  -   Root words, Use of prefixes and suffixes to form derivatives, Standard abbreviations. Basic Sentences.   Reading Task I. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - II - Reading Skills",
+      "content": "The  Reading process, purpose, different kinds of texts; Reading Comprehension; Techniques of comprehension  –   skimming, scanning, drawing inferences and conclusions. Practice in Critical  Reading  passages .  Vocabulary  and  Grammar:   Determiners.  Use  of  Synonyms  and Antonyms, Construction of Sentences.   Reading Task II."
+    },
+    {
+      "title": "UNIT - III - Writing Skills II",
+      "content": "Paragraph Writing.  –   Structure and features of a paragraph; Essay writing, Cohesion and coherence.  Techniques of writing précis.   Vocabulary & Grammar:   Use of connectors  and linkers, Tenses, Punctuation.   Reading Task III."
+    },
+    {
+      "title": "UNIT - IV - Professional Writing Skills - 1",
+      "content": "Letter Writing  –   Structure, format of a formal letter; Letter of Request and Response, Drafting Emails, Email and Mobile etiquette.  Vocabulary and Grammar:   Phrasal verbs, Misplaced modifiers, Subject - verb agreement.  Reading Task IV"
+    },
+    {
+      "title": "UNIT - V - Professional Writing Skills - 2",
+      "content": "Report writing  –   Importance, structure, elements & style of formal reports;  Writing  a  formal  report.  Writing  for  Blogs.  Vocabulary  and  Gram mar:   Words  often Confused, Common Errors. Avoiding Ambiguity & Redundancy.  Reading Task V."
+    }
+  ],
+  "22PYC03": [],
+  "22EGC02N": [],
+  "22CSC02N": [
+    {
+      "title": "LABORATORY / PRACTICAL EXPERIMENTS:",
+      "content": "1.   Familiarization with programming environment. 2.   Draw flowcharts using Raptor or Drakon  Tool. 3.   Simple computational problems using arithmetic expressions. 4.   Problems involving if - then - else structures. 5.   Iterative problems e.g., sum of series, generating patterns. 6.   Iterative and Recursive functions. 7.   1D Arrays, 2D arrays and strings. 8.   Sorting and Searching, Matrix problems. 9.   Pointers and structures. 10.   Dynamic memory allocation. 11.   File Handling."
+    }
+  ],
+  "22MEC01N": [],
+  "22MEC38N": [],
+  "22MTC04": [
+    {
+      "title": "UNIT  -   I - Differential Equations of First Order",
+      "content": "Exact Differential  Equations, Equations Reducible to Exact Equations, Linear Equations, Bernoulli’s Equations, Riccati’s and Clairaut’s Equations, Orthogonal trajectories, Rate of decay of radio - active materials."
+    },
+    {
+      "title": "UNIT - II - Higher Order Linear Differential Equations",
+      "content": "Higher  order linear differential equations with constant coefficients, rules  for  finding  Complementary  function,  Particular  Integral and  General  solution. Method of Variation of Parameters, solution of Cauchy -   Euler equation. LR and LCR circuits."
+    },
+    {
+      "title": "UNIT - III - Numer ical solution of equations",
+      "content": "Numerical solutions of algebraic and transcendental equations by Bisection method, Regula - falsi method and Newton - Raphson’s method, Solution of system of linear equations by LU decomposition methods,   Crout’s method, Jacobi’s met hod, Gauss Seidel method ."
+    },
+    {
+      "title": "UNIT - IV - Interpolation and Numerical Differentiation",
+      "content": "Forward, Backward and Central differences, Newton's forward and backward interpolation formulae, Gauss's forward and backward interpolation formulae, Lagrange’s interpolation,  Numerical differentiation at the tabulated points with forward, backward and central differences . Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Infinite Series",
+      "content": "Convergence of sequence and series. Series of positive terms,  Necessary condition for convergence, Comparison tests, limit form com parison test, D’Alembert’s Ratio test, Raabe’s test, Cauchy’s root test, Alternating series, Leibnitz’s rule, absolutely and conditionally convergence."
+    }
+  ],
+  "22CYC01": [
+    {
+      "title": "UNIT - I - Atomic and molecular structure and Chemical Kinetics",
+      "content": "Atomic and molecular structure:   Molecular Orbital theory  -   atomic and molecular orbitals. Linear combination of atomic orbitals (LCAO) method. Molecular orbitals of diatomic molecules. Molecular + Orbital Energy level diagrams (MOED) of diatomic molecules & molecular ions (H , He , N , O , O 2 2 2 2 2 , CO, NO). Pi -   molecular orbitals of benzene and   its  aromaticity.   Chemical Kinetics:   Introduction, Terms involved in kinetics: rate of reaction, order & molecularity; First order reaction - Characteristics: units of first order rate constant & its half - life period, second order reaction - Characteristics: units  of second order rate constant & its half -   life period. Numericals."
+    },
+    {
+      "title": "UNIT - II - Use of free energy in chemical equilibria Use of free energy in chemical equilibria",
+      "content": "Thermodynamic functions: Internal energy, entropy and free energy. Significance of entropy and free energy (criteria of spontaneity). Free energy and emf (Gibbs Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Helmholtz  equations  and  its  applications).  Cell  pote ntials,  electrode  potentials,  and  –   Reference electrodes (NHE, SCE) electrochemical series. Nernst equation and its applications. Determination of pH  using  combined  Glass  &  Calomel  electrode.  Potentiometric  Acid  base  &  Redox  Titrations. Numericals. Batter y technology: Rechargeable batteries & Fuel cells. Lithium batteries: Introduction, construction, working and applications of Li - MnO   and Li - ion batteries. 2 Fuel Cells:   Introduction, difference between conventional cell and fuel cell, limitations & advantag es. Construction, working & applications of methanol - oxygen fuel cell."
+    },
+    {
+      "title": "UNIT - III - Stereochemistry and Organic reactions",
+      "content": "Stereochemistry :  Representations  of  3  dimensional  structures,  Types  of  stereoisomerism - Conformational isomerism  –   confirmations  of  n - butane (Newman and sawhorse representations), Configurational isomerism  - Geometrical (cis - trans) isomerism & Optical isomerism -   optical activity, Symmetry  and  chirality:  Enantiomers  (lactic  acid)  &Diastereomers  (Tartaric  acid),  Absolute configurations, Seq uence rules for R&S notation. Types of Organic reactions:   Substitution Reactions -   Electrophilic substitution (Nitration of Benzene); Nucleophilic Substitution (S 1& S 2); Free Radical Substitution (Halogenation of Alkanes) N N Addition  Reactions:  Electrophili c  Addition  –   Markonikoff’s  rule,  Free  radical  Addition  -   Anti Markonikoff’s  rule  (Peroxide  effect),  Nucleophilic  Addition  –   (Addition  of  HCN  to  carbonyl compounds)  Eliminations - E1 and E2 (dehydrohalogenation of alkyl halides), Cyclization (Diels  -   Alder r eaction)"
+    },
+    {
+      "title": "UNIT – IV - Water Chemistry ",
+      "content": "Hardness of water  –   Types, units of hardness, Disadvantages of hard water, Alkalinity and Estimation of Alkalinity of water, Boiler troubles  -   scales & sludge formation, causes and effects, Softening of water by lim e soda process (Cold lime soda process),   ion exchange method and Reverse Osmosis. Specifications of potable water & industrial water. Disinfection of water by Chlorination; break point chlorination,  BOD and COD definition, Estimation (only brief procedure)   and significance, Numericals."
+    },
+    {
+      "title": "UNIT - V - Engineering Materials and Drugs ",
+      "content": "Introduction,  Terms  used  in  polymer  science;  Thermoplastic  polymers  (PVC)  &Thermosetting polymers (Bakelite); Elastomers (Natural rubber). Conducting polymers -   Definition, classifica tion and applications.  Polymers for Electronics: Polymer resists for integrated circuit fabrication, lithography and photolithography .  Nano materials - Introduction to nano materials and general applications, basic chemical  methods  of  preparation -   Sol - gel  method.  Carbon  nanotubes  and  their  applications. Characterisation of nanomaterials by SEM and TEM (only Principle).   Drugs - Introduction, Synthesis and uses of Aspirin (analgesic), Paracetamol (Antipyretic), Atenolol (antihypertensive)."
+    }
+  ],
+  "22EEC01": [
+    {
+      "title": "UNIT - I - DC Circuits",
+      "content": "Electrical circuit elements (R,L and C), voltage and current sources, Kirchhoff current  and voltage laws, analysis of simple circuits with dc excitation, Superposition, Thevenin’s and Norton’s Theorems."
+    },
+    {
+      "title": "UNIT - II - AC Circuits",
+      "content": "Representation of sinusoidal waveforms, peak and RMS values, phasor representation, real  power,  reactive  power,  apparent  power,  power  factor,  Analysis  of  single - phase  ac  circuits consisting of R, L, C, series RL and RC. Three phase balanced ci rcuits, voltage and current relations in star and delta connections."
+    },
+    {
+      "title": "UNIT - III - Single  Phase  Transformer",
+      "content": "Construction,  Working  principle,  EMF  Equation,  Ideal  and  Practical transformer, Equivalent circuit of Transformer, OC and SC tests on a transformer, E fficiency and Regulation"
+    },
+    {
+      "title": "UNIT - IV - DC  and  AC  Machines",
+      "content": "DC  Generators:  Construction,  Principle  of  operation,  EMF  equation, Classification,  Characteristics  of  shunt  generators.  DC  Motors:  Classification,  Torque  Equation, Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Characteristics and Speed control of   DC Shunt and Series Motors, Losses and efficiency Three  -   Phase Induction Motors: Principle of operation, Applications"
+    },
+    {
+      "title": "UNIT - V - Electrical Installations",
+      "content": "Electrical Wiring: Types of wires and cables, Electrical Safety precautions in handling electrical app liances, electric shock, and first aid for electric shock, safety rules. Components of LT Switchgear: Switch Fuse Unit (SFU), MCB, ELCB, Earthing (Elementary Treatment only), Elementary calculations for energy consumption"
+    }
+  ],
+  "22ITC20N": [
+    {
+      "title": "UNIT - I - Object Oriented Design",
+      "content": "Object - Oriented Design Goals, Object - Oriented Design Principles.   Classes: Class Structure, Constructors and Destructor, Classes and Memory Allocation, Class Friends and Class Members,  Standard  Template  Library.  Inheritance:   Inheritance  in  C++,  Examples,  Multiple Inheritance, Interfaces and Abstract Classes, Templates: Class Tem plates"
+    },
+    {
+      "title": "UNIT - II - Algorithm Analysis",
+      "content": "Experimental Studies, Primitive Operations, Asymptotic notation, Asymptotic Analysis, Seven functions.   Sorting :  Selection Sort, Insertion Sort, Merge - Sort: Divide - and - Conquer, Quick - Sort: Randomized Quick - Sort, Linear - Ti me Sorting: Bucket - Sort and Radix - Sort, Comparing Sorting Algorithms."
+    },
+    {
+      "title": "UNIT - III - Linked Lists ",
+      "content": "Singly Linked Lists, Implementing a Singly Linked List, Insertion to the Front of a Singly Linked List, Removal from the Front of a Singly Linked List, Implement ing a Generic Singly Linked List, Doubly Linked Lists, Insertion into a Doubly Linked List, Removal from a Doubly Linked List, Circularly Linked Lists, Reversing a Linked List.   Stacks : The  Stack Abstract Data Type, a C++ Stack Interface,  a  Simple  Array - Based  Stack  Implementation,  Reversing  a  Vector  Using  a  Stack, Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Matching Parentheses.   Queues:  The Queue Abstract Data Type, a C++ Queue  Interface, a Simple Array - Based Implementation, Implementing a Queue with a Circularly Linked List."
+    },
+    {
+      "title": "UNIT - IV - Trees ",
+      "content": "General Tree Definitions and Properties, Binary Trees, The Binary Tree ADT, Properties of Binary Trees, A Linked Structure for Binary Trees, A Vector - Based Structure for Binary Trees, Traversals of a Binary Tree, Representing General Trees with Binary Tree s.   Binary Search Trees: Searching, Update Operations, AVL Trees: Insertion;  Heaps:  The Heap Data Structure,  Complete Binary  Trees, Heap Sort."
+    },
+    {
+      "title": "UNIT - V - Strings",
+      "content": "Pattern Matching Algorithms: Brute Force, the Boyer - Moore Algorithm, the Knuth - Morris - Pratt  Algorithm .  Graphs:  Graphs, Data Structures for Graph, Graph Traversals .  Hash Tables : Hash Tables, Bucket Arrays, Hash Functions, Hash Codes, Compression functions, Collision - Handling Schemes, Load Factors and Rehashing"
+    }
+  ],
+  "22CYC02": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Introduction: Preparation of standard solution of oxalic acid and standardisation of NaOH. +2 +2 2.   Estimation of metal ions (Co   & Ni ) by EDTA method. 3.   Estimation of temporary and permanent hardness of water using EDTA solutio n. 4.   Determination of Alkalinity of water. 5.   Determination of rate constant for the reaction of hydrolysis of methyl acetate. (first order). 6.   Determination of rate constant for the reaction between potassium per sulphate and potassium 7.   Iodide. (Second order). 8.   Estimation of amount of HCl Conductometrically using NaOH solution. 9.   Estimation of amount of HCl and CH COOH present in the given mixture of acids 3 10.   Conductometrically using NaOH solution. 11.   Estimation of amount of HCl Potentiometrically using NaOH solution. +2 12.   Estimation of amount of Fe   Potentiometrically using KMnO   solution 4 13.   Preparation of Nitrobenzene from Benzene. 14.   Synthesis of Aspirin drug and Paracetamol drug. 15.   Synthesis of phenol formaldehyde resin. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    }
+  ],
+  "22MBC02N": [],
+  "22ITC21N": [
+    {
+      "title": "LIST OF PROGRAMS:",
+      "content": "1.   Practice problems on Inheritance and Polymorphism. 2.   Implement the following sorting techniques : Insertion Sort,  Selection Sort, Merge Sort, Quick Sort. 3.   Define   Linked  List ADT and implement its operations. 4.   Implement Stack ADT and perform arithmetic expression evaluation. 5.   Implement Queues, Circular Queues. 6.   Implement Heap sort. 7.   Construct a Binary Search Tree and implem ent Tree Traversals. 8.   Define String ADT and implement  the  Boyer Moore pattern matching algorithm. 9.   Implement Hashing with chaining. 10.   Implement Graph Traversals."
+    }
+  ],
+  "22MEC37N": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "Experiment Title   CO No 1.   Introduction to Robotics, Definition and scope of robotics, Robot configurations - 1 Cartesian, cylinder, polar and articulate. Uses and Significance of Robots, Parts of a Robot, Current applications and future trends. Introduction to Arduino,  C++, Arduino Programming Environment. Interfacing Arduino with Electronic Devices  such as LEDs/Piezo Buzzer. 2.   Interfacing Arduino with Electronic Devices  such as Push Button/Potentiometer.   1 Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING 3.   Introduction to Sensors, Types of Sensors, Reading  Data from Sensors, Interfacing  2 Sensors with Microcontrollers. Interfacing Arduino with Ultrasonic Distance Sensor and Reading Sensor Data on Serial Monitor. 4.   Interfacing Arduino with IR Sensor and Reading Sensor Data on Serial Monitor.   2 5.   Interfacing Arduino  with  Rotary  Encoder  and  Reading  Sensor  Data  on  Serial  2 Monitor. 6.   Introduction to motors, Types of motors, Motor drivers, Interfacing motors with  3 Microcontrollers, Introduction to Li - ion, LIPO batteries, uses and safety precaution. I mplement a system that utilizes an Arduino microcontroller to control the precise movement of a servo motor. 7.   Implement a system that utilizes an Arduino microcontroller to control the precise  3 and sequential movements of a stepper motor. 8.   Construct  a  two - wheel  robot  using  DC  motors  controlled  by  an  Arduino  3 microcontroller. Implement a program that allows the robot to execute specific movements. The robot should: i.   Move forward with controlled acceleration. ii.   Move backward with controlled decele ration. 9.   Construct an Obstacle avoidance robot.   3 10.   Construct a Pick and place robot.   3 11.   OpenCv for image processing:   4 i.   Extraction of RGB values of a pixel ii.   Create colored shapes and save image iii.   Extraction of ROI 12.   Assembly of quad copter  drone.   5 Open - Ended Project on Autonomous System Note:    Mandatory Open - Ended Project (20 marks) in CIE.    Any 10 experiments the students must do among the 12 experiments."
+    }
+  ],
+  "22EEC02": [],
+  "22ITC02N": [
+    {
+      "title": "UNIT - I - Introduction to Java",
+      "content": "Procedural and object - oriented programming paradigms, Principles, Features, Basic structure a java program, Java Primitive Data Types, Basic Operators, Flow - control statements. Defining  Classes,  Adding  Instance  Fields  and  Methods,  Object  Creation,  Constru ctors,  Access Modifiers, Method Overloading and Constructor Overloading, Use of static and final keyword, Arrays, Strings and String Tokenizer.   Scanner."
+    },
+    {
+      "title": "UNIT - II - Inheritances and Packages",
+      "content": "Types of Inheritance, super keyword, preventing inheritance, the Ob ject class, method overriding and dynamic method dispatch, abstract classes and methods. Interfaces, Interfaces vs. Abstract classes, Inner classes and types, Packages, Creating and Accessing a Package, Understanding CLASSPATH, importing packages."
+    },
+    {
+      "title": "UNIT - III - Exception Handling and Threading",
+      "content": "What are exceptions, Error vs. Exception, usage of try, catch, throw, throws and finally clauses, Multithreading in Java, Life cycle of Thread, how to create threads, Thread class in java, Thread priorities, Thread Synchr onization. Introduction to Generics, Advantages of Generics, Generic class, Type Parameters, Generic Methods. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Collections",
+      "content": "Overview of Java Collection Framework, Collection Interfaces  –   Collection, Set, List, Map, Collection classes  –   Array List, Linked List, Hash Set, Tree Set, Hash Map, Tree Map, Iteration over Collections  –   Iterator and List Iterator, Comparable and Compar ator interface, Introduction to Java 8 Features, Lambda Expressions, Functional Interfaces."
+    },
+    {
+      "title": "UNIT - V - Java I/O and NIO",
+      "content": "Input Stream, Output Stream, Reader, Writer, File Reader, File Writer, Buffered Reader, Buffered Writer, Object Serialization and  Deserialization, Java NIO: Non - blocking I/O, Path, Files, Selectors, Channels, Buffers, Asynchronous I/O, NIO vs. IO"
+    }
+  ],
+  "22CSC06": [
+    {
+      "title": "UNIT  –   I - Introduction to Propositional Calculus ",
+      "content": "Basic Connectives and Truth tables, Logical Equivalence: Laws  of  Logic,  Logical  Implication;  Rules  of  Inference.  Predicates:   The  Use  of  Quantifiers, Quantifiers, Definitions and the Proofs of Theorems"
+    },
+    {
+      "title": "UNIT   –   II - Sets ",
+      "content": "Sets and Subsets, Operations on sets and the Laws of Set Theory, Counting and Venn Diagrams. Relations and Functions:   Cartesian Products and Relations. Partial ordering relations, POSET, Hasse diagrams, Lattices as Partially Ordered Sets, Equiv alence relations. Pigeon hole principle.  Functions : Types of Functions, Composition of functions and Inverse of functions"
+    },
+    {
+      "title": "UNIT  –   III - Fundamental Principles of counting ",
+      "content": "The Rules of Sum and Product, Permutations, Combinations, Binomial  Theorem;  Generating   Functions :  Generating  Functions,  Calculating  Coefficient  of generating functions;  Recurrence Relations:   The First Order Linear Recurrence Relation, Second Order  Linear.  Homogeneous  Recurrence  relations  with  constant  coefficients,  Non  Homogeneous Recurrenc e relations."
+    },
+    {
+      "title": "UNIT  –   IV - Introduction  to  Graphs ",
+      "content": "Graphs  and  their  basic  properties -   degree,  path,  cycle,  Sub  graphs, Complements and Graph Isomorphism, Euler trails and circuits, Hamiltonian paths and cycles, Planar Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING graphs, Euler formula, Graph Coloring and   Chromatic polynomial, Matching, Applications.  Trees : Definitions,  Properties,  Rooted  Trees,  Spanning  Trees,  Minimum  Spanning  trees:  Algorithms  of Kruskal and Prim."
+    },
+    {
+      "title": "UNIT  -   V - Algebraic  Structures",
+      "content": "Algebraic  Systems,  Examples  and  General  Properties,  Semi  gr oups  and Monoids.  Groups:   Definitions and Examples, Subgroups, Homomorphisms and cyclic groups"
+    }
+  ],
+  "22CSC07N": [
+    {
+      "title": "UNIT   -   I - Digital and Binary Numbers ",
+      "content": "Digital systems, Binary numbers, Number base conversions, Octal and Hexadecimal numbers, Complements of Numbers, Binary codes.  Boolean Algebra and logic Gates: Binary logic, Basic Definitions, Axiomatic Definition  of Boolean  Algebra, Basic Theorems  and Properties  of Boolean  Algebra, Boolean Functions, Canonical and Standard Forms, Other Logic Operations, Digital Logic Gates, Integrated Circuits."
+    },
+    {
+      "title": "UNIT   –   II - Minimization of Switching Functions",
+      "content": "Introduction, the map method, minimal functions and their properties, the tabulation procedure, the prime implicant chart.  NAND and NOR Gates:   NAND Circuits, Two - level Implementation, Multilevel NAND Circuits, NOR Circu its. Exclusive OR Gates: Odd Function, Parity Generation and Checking."
+    },
+    {
+      "title": "UNIT -   III - Combinational Logic Design",
+      "content": "Combinational Circuits; Analysis   Procedure:  Derivation of Boolean Functions, Derivation of the Truth Table, Logic Simulation.  Design Procedure:  De coders, Encoders, Multiplexers  -   Designing Combinational Circuits using Multiplexers, Binary Adders, Adder - Subtractor, Binary Multiplier."
+    },
+    {
+      "title": "UNIT   -   IV - Sequential Circuits",
+      "content": "Sequential circuit definitions, Latches, Flip Flops, Sequential circuit analysis, Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Sequential circuit design, Design with D Flip Flops, Designing with JK Flip - Flops."
+    },
+    {
+      "title": "UNIT   –   V - Sequence Detection and State Reduction Methods",
+      "content": "Moore and Mealy state graphs for sequence detection, Methods for reduction of state tables, Methods for state assi gnment.  Registers:   Registers, Shift registers.   Counters:  Ripple counters, synchronous counters, and other counters."
+    }
+  ],
+  "22CSC14N": [
+    {
+      "title": "UNIT  -   I - Introduction",
+      "content": "Characteristics of algorithm.  Analysis of algorithm:   Asymptotic analysis of complexity bounds  –   best, average and worst - case behavior.  Performance measurements of Algorithm, Time and space trade - offs.  Divide and Conquer:   The  general method, Minimum and Maximum Problem Analysis  of  recursive  algorithms  throu gh  recurrence  relations:   Iterative/Expansion  method, Recursion tree method and Masters’ theorem."
+    },
+    {
+      "title": "UNIT  -   II - Greedy Algorithms ",
+      "content": "The general method, Knapsack Problem, Huffman Codes, Job scheduling with deadlines.  Dynamic Programming : The general method, 0/1  Knapsack, Travelling Salesman Problem, Matrix chain multiplication, Longest Common subsequence. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   III - Backtracking",
+      "content": "The general Method, 8 - Queens Problem, Graph Coloring, Hamiltonian Cycle.  Branch - and - Bound : The general method, FIFO branch and boun d, LC branch and bound, 0/1 Knapsack Problem using FIFO branch and bound, Travelling Salesperson problem using LC branch and bound."
+    },
+    {
+      "title": "UNIT  -   IV - Graph  Algorithms",
+      "content": "Applications  of  DFS :  Bi - Connected  components,  strongly  connected components,  topological  sortin g.  Shortest  Path  Algorithms :  Dijkstra’s,  Bellman - Ford,   Floyd - Warshall"
+    },
+    {
+      "title": "UNIT  -   V - Theory of NP - Completeness",
+      "content": "Polynomial time, Polynomial time verification, P, NP, NP - hard and NP - Complete  classes,  NP - Completeness  and  Reducibility.  Standard  NP - Complete  Problems  and Reduction Techniques:   The Clique Problem, Vertex - Cover Problem."
+    }
+  ],
+  "22ECC36": [
+    {
+      "title": "UNIT - I - Diodes and its Applications",
+      "content": "Overview of Semiconductors, Characteristics of P - N Junction diode, current equation. Characteristics of Zener Diode, Voltage regulator, Half Wave, Full Wave: Center tap, Bridge Rectifiers.  Display Systems:   Constructional details of C.R.O and Applications."
+    },
+    {
+      "title": "UNIT - II - Bipolar Junction Transistors",
+      "content": "Classification, Bipolar Junction Transistors Configurations. CE, CB Characteristics, h - parameters, Analysis of BJT amplifier using h - parameters in CE, CB configuration. Field Effect Transistor:   Junction Field Effe ct Transistor: Principle of Operation, Characteristics of JFET and Operation of MOSFET."
+    },
+    {
+      "title": "UNIT -   III - Op - Amps Circuits",
+      "content": "Basic Principle, Ideal, and practical Characteristics, Voltage Follower, Op - Amp parameters, Applications - Summer, Integrator, Differentiat or, Instrumentation amplifiers, Logic Gates - IC’s.    Data  Converters:   Specifications,  DAC -   Weighted  Resistor,  R - 2R  Ladder,  ADC - Parallel Comparator., Successive Approximation and Dual Slope( Qualitative treatment Only)."
+    },
+    {
+      "title": "UNIT - IV - Sensors",
+      "content": "Definition, classification, Proximity Sensors, Tachogenerator as a Velocity, Optical encoder as motion and Strain Gauge as force Sensor; Temperature and light sensors, Collision Avoidance Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING sensors.   ROBOT Sensors:   Sensors in robot  –   Touch sensors; Camera S ystems in Machine: Camera Technology, History in Brief, Machine Vision versus closed Circuit Television (CCTV).   Actuators: Introduction, Types of actuators in IOT, Real life examples of actuators in IOT."
+    },
+    {
+      "title": "UNIT - V - Hardware/software  platforms",
+      "content": "Introduction  to  LabVIEW,  Data  Acquisition  System:  hardware Overview of my RIO, Converting Raw Data Values to a Voltage.   Sensors interfacing with my RIO: Introduction, Pin configuration, diagrams of thermistor, photo cell, Hall Effect, IR Range Finder, Bluetooth, Tempe rature Sensors."
+    }
+  ],
+  "22EGM01": [
+    {
+      "title": "UNIT - I - Constitutional History and Framing of Indian Constitution",
+      "content": "East India Company rule (1757 - 1857): Social, Economic, Political and Administrative impact of Company rule in India. British Rule (1858 - 1947): Indian National Movement, Government of India Acts 1909, 1919 and 1935, and Indian Independence Act 1947. Framing   of the Indian Constitution: Constituent Assembly, Preamble and Salient Features."
+    },
+    {
+      "title": "UNIT - II - Fundamental Rights, Duties and Directive Principles of State Policy",
+      "content": "The Fundamental Rights : Features and significance of Rights. Fundamental Duties: Importance an d the legal status of Duties. Directive Principles of State Policy: Socialist, Gandhian and Liberal - intellectual principles, importance and relevance."
+    },
+    {
+      "title": "UNIT - III - Union Government and its Administration",
+      "content": "Federalism: Division of legislative and financial po wers between the Union and the State. Union Executive: Role and position of President, Prime Minister and Council of Ministers. Emergency Provisions: National Emergency, Constitutional Emergency and Financial Emergency. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Union Legislature and Judiciary",
+      "content": "Union Legislature: Parliament of India - Composition and functions of Parliament, and Parliamentary Committees. Union Judiciary: Supreme Court of India - Composition and Functions."
+    },
+    {
+      "title": "UNIT - V - Local Self Governments",
+      "content": "Rural Local G overnments: Zilla Parishad -   CEO and functions of Zilla Parishad, Mandal Parishad -   Role of Elected and Officials, Gram Panchayat -   Sarpanch, Secretary and Gram Sabha. Urban Local Governments: Structure and functions of Municipalities and Municipal Corporatio ns. District Collector: Powers and functions of Collector."
+    }
+  ],
+  "22ITC03N": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Implement the program(s) to handle the various data types, operators, expressions, control - flow, and strings. 2.   Develop a java program(s) for constructors. 3.   Develop a java program   to demonstrate the method overloading and riding. 4.   Develop a java program(s) to deal with different types of inheritances and interfaces. 5.   Implement the program(s) to demonstrate the packages. 6.   Develop a java program(s) to handle user defined exceptions with multiple catch blocks. 7.   Implement program(s) to demonstrate Multithreading and thread synchronization. 8.   Implement program(s) to demonstrate generics. 9.   Implement the collection framework classes   with Iterator/List Iterator. 10.   Develop a java program(s) to implement the features of JDK8."
+    }
+  ],
+  "22CSC47": [],
+  "22ECC37": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Study of Semiconductor components, sensors, transducers. 2.   Characteristics of Semiconductor Diodes. 3.   CRO Applications 4.   Half Wave Rectifier with and without filters. 5.   Full Wave Rectifiers with and without filters 6.   Voltage Regulator using Zener diode. 7.   CB Input and Output Characteristics 8.   FET Characteristics 9.   Operational Amplifiers  –   Inverting Op - Amp, Adder. 10.   Operational Amplifiers  –   Integrator, Differntiator. 11.   Interfacing LDR/Photo Resistor and LED with myRIO (Intensity control of LED with respect to Illumination). 12.   Interfacing LM35, Thermistor, and Buzzer wit h myRIO. (Temperature Thresholding Application) 13.   Interfacing IR Range Finder with myRIO. (Obstacle detection and Ranging) 14.   Interfacing Motor with Motor Adapter using myRIO. (Motor momentum control) 15.   Interfacing Accelerometer and Inbuilt accelerometer with  myRIO. (Vibration calculation in specific axis) 16.   Structured Enquiry:   Design a switching circuit using BJT and analyse its operation. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING 17.   Open ended Enquiry:   Design a LED running lights circuit for vehicles to avoid accidents in fog/rain condition. Note: At l east 12 experiments are to be performed."
+    }
+  ],
+  "22CSI01N": [],
+  "22CSC10N": [
+    {
+      "title": "UNIT – I - Introduction to Computer Architecture",
+      "content": "Introduction to Computer Architecture, basic computer operations, Performance Metrics (like Latency, throughput), Fundamental Blocks of Computer (like CPU, I/O subsystems, memory, control unit),  Von - Neuman architecture, Harvard architecture, RISC and CISC."
+    },
+    {
+      "title": "UNIT – II - Instruction Set Architecture (ISA)",
+      "content": "Introduction to RTL, Registers, Arithmetic micro instructions, Logic micro instructions, shift micro instructions, Common bus system, Instruction Exe cution Cycle, Addressing Modes."
+    },
+    {
+      "title": "UNIT – III - Data Representation",
+      "content": "Data Type Representation, fixed point representation, addition, subtraction, multiplication, Booth’s algorithm, division restore algorithm, floating - point representation, Floating - point Additio n/subtraction, Multiplication, Division. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT – IV - Introduction to memory systems and Pipelining ",
+      "content": "SRAM Vs DRAM, cache memory, mapping, write policies, multi - level caching, virtual memory,   Pipelining (Basics, Types, stalling, and forwarding), Throughput a nd Speedup of Pipelining, Pipelining Hazards"
+    },
+    {
+      "title": "UNIT – V - Multiprocessors",
+      "content": "Shared  memory  Vs  Distributed  memory  systems,  interconnection  networks  for multiprocessors, Bus - Based, Crossbar, Multi - stage, Hypercube, and Mesh Networks,"
+    }
+  ],
+  "22CSC11N": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "Database System Applications, Purpose of Database Systems, View of Data, Database Languages, Database Users and Administrators, Database System Architecture, Data Models,  E - R Model : Introduction, Constraints, E - R Diagrams, E - R Design Issues, Mapping from  ER to relational model, Extended E - R Features."
+    },
+    {
+      "title": "UNIT - II - Relational Algebra",
+      "content": "Introduction to relational algebra operations, Basic relational algebra operators, Natural join, Assignment operator.   SQL:   Data Types, Basic Structure of SQL Queries, Modificatio n of the Database, Set Operations, Aggregate Functions, Data - Definition Language, Integrity Constraints, Null Values, Views, Join Expression. Simple Queries (select/project/join/ aggregate queries), Complex queries (With Clause, Nested Sub queries, Views)"
+    },
+    {
+      "title": "UNIT - III - Functional  Dependency ",
+      "content": "Trivial  and  Nontrivial  Dependencies,  Closure  of  Set  of  Functional Dependencies, Attribute closure, Irreducible Set of Functional Dependencies, lossless decomposition, Normalization – 1NF, 2NF, 3NF and BCNF, Dependency preserv ed decomposition, Comparison of BCNF and 3NF. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT – IV - Indexing",
+      "content": "Basic  Concepts,  Primary  Index,  Dense  and  Sparse  Indices,  Secondary  Indices,  Tree - Structured Indexing, Indexed Sequential Access Method (ISAM), B+Tree Index Files, Hash indices, Bitmap indice s.  Transaction Processing:  Concept of transactions and schedules, ACID properties, Conflict - serializability"
+    },
+    {
+      "title": "UNIT - V - Concurrency  control",
+      "content": "Lock - Based  Protocols,  Dead  lock  handling,  Timestamp - Based  Protocols, Validation - Based Protocols.  Recovery system:   Failure classification, Log based recovery, recovery algorithm, ARIES."
+    }
+  ],
+  "22CSC48": [
+    {
+      "title": "UNIT - I - Automata",
+      "content": "Introduction to Finite Automata, the Central Concepts of Automata Theory: Alphabets, Strings and Languages.  Finite Automata:  Deterministic Finite Automata, Nondeterministic Finite Automata, Equivalence of NFA and DFA, Finit e Automata with Epsilon  - Transitions, Minimization of DFA, Introduction to Mealy and Moore machine, Equivalence of Mealy and Moore Machine."
+    },
+    {
+      "title": "UNIT - II - Regular Expression and languages",
+      "content": "Regular Expressions, Finite Automata and Regular Expression: From DFAs t o Regular Expressions, Converting Regular Expressions to Automata, Applications of Regular Expressions, Algebraic Laws for Regular Expressions.  Properties of Regular Languages: The pumping lemma for Regular Languages, Applications of Pumping Lemma, Closure   Properties of Regular Languages, Decision Properties of Regular Languages."
+    },
+    {
+      "title": "UNIT - III - Context  Free  Grammars  and  Languages",
+      "content": "Context - Free  Grammars,  Leftmost  and  Rightmost Derivations, The language of a Grammar, Constructing Parse Trees, The Yield of a Parse  Tree, Applications of CFGs, Ambiguous Grammars, Removing Ambiguity From Grammars.  Properties of Context Free Languages:   Normal Forms for Context - Free Grammars: Eliminating Useless Symbols, Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Computing the Generating and Reachable Symbols, Eliminating Epsilon   Productions, Eliminating Unit Productions, Chomsky Normal Form, Greibach Normal form, Pumping Lemma for  CFL."
+    },
+    {
+      "title": "UNIT - IV - Pushdown Automata",
+      "content": "The Formal Definition of PDA, Graphical Notation for PDA’s, Instantaneous Description of a PDA, The Language of a PDA: Acceptance by Final State, Acceptance by Empty Stack, Equivalence of PDA’s and CFG’s: From Grammars to PDA’s, From PDA’s to Grammars, Det erministic  Pushdown  Automata.  Context - sensitive  Languages :  Context - sensitive  grammars (CSG), linear bounded automata."
+    },
+    {
+      "title": "UNIT - V - Introduction to Turing Machines",
+      "content": "Notation for the TM, Instantaneous Descriptions for TM’s, The Language of a TM, Turing Machines  and Halting, Extensions to the Basic Turing machine, Restricted Turing machines, Turing Machines and computers.  Undecidability:   Codes for Turing Machines, The Diagonalization  Language,  The  Universal  Language,  Undecidablity  of  the  Universal  Language, Undeci dable problems about Turing Machines: Rice’s Theorem and Properties of RE languages, Post’s Correspondence Problem: Definition of PCP, The Modified PCP."
+    }
+  ],
+  "22CSC42": [
+    {
+      "title": "UNIT - I - Web Basics",
+      "content": "Introduction to Internet, World Wide Web, URL, MIME, HTTP Transactions, SSL, Client - Side Scripting, Server - Side Scripting, Accessing Web Servers, MySQL, IDEs."
+    },
+    {
+      "title": "UNIT - II - Introduction HTML5",
+      "content": "basic tags, Images, Tables, Lists, Forms, Layout, Graphics, span and div tags, Introduction to Cascading Style Sheets.  XML:   Introduction, uses of XML, the Syntax of XML, XML Document Structure, Namespaces, XML schemas."
+    },
+    {
+      "title": "UNIT - III - The  Basics  of  Java  script",
+      "content": "Primitive  operations  and  Expressions,  Arrays,  Functions,  Pattern Matching Using Regular Expressions, Document Object Model, Element Access in JavaScript, Events and  Event  Handling,  Handling  Events  from  Body,  Button, Text  Box  and  Password  Elements, Introduction to JSON.  JQuery:   Introduction, Positioning Elements, Moving Elements."
+    },
+    {
+      "title": "UNIT - IV - Bootstrap",
+      "content": "Introduction to Bootstrap, bootstrap grid, bootstrap components.  Vue.js:   Introduction, Instance and Template Syntax, Directives, Components and Props, Events, Event modifiers, Forms and Two - way Binding, Routing, Connecting Vue.js with databases. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Node.js",
+      "content": "Introduction, server creation.  MongoDB:   Introduction, Importanc e of NoSQL databases, Data types, Documents, nested Documents, CRUD Operations, Basic cursor methods: map, to Array, pretty, for Each, limit, count, sort, CRUD Operations."
+    }
+  ],
+  "22MTC12": [
+    {
+      "title": "UNIT - I - Basic Statistics",
+      "content": "Measures of Central Tendency, Measures of Dispersion,  Moments (Moments about the mean and moments about a point). Skewness, Karl Pearson’s coefficient of skewness and Bowley’s coefficient of skewness for frequency distribution, Kurtosis. Correlation, coefficient of correlation, limits of correlation coefficie nt. Linear Regression, Regression coefficients, Properties of Regression Coefficients. Curve fitting by the Method of Least Squares, Fitting of Straight lines and Exponential curve."
+    },
+    {
+      "title": "UNIT - II - Univariate and Bivariate Distribution . ",
+      "content": "Conditional Probability,   Baye’s theorem. Random variable, discrete random variable, Probability Mass Function, continuous random variable, probability density function. Mathematical expectation, properties of Expectation, properties of variance and co - variance. Two - dimensional or   Joint Probability Mass Function, Two - dimensional Distribution Function, , Joint Density Function, Marginal Density Function, The Conditional Distribution Function, and Conditional Probability Density Function, Stochastic Independence."
+    },
+    {
+      "title": "UNIT - III - Probabili ty Distributions",
+      "content": "Discrete probability distribution: Poisson distribution, Mean, Variance, MGF, CGF, fitting of Poisson distribution. Continuous probability distributions: Normal distribution, Standard Normal random variable Expectation, Variance, MGF (wit hout proof), CGF, Properties of Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Normal Curve and Areas under Normal curve. Exponential distribution, Expectation, Variance, MGF, CGF."
+    },
+    {
+      "title": "UNIT - IV - Testing of Hypotheses",
+      "content": "Test of significance, null and alternative hypotheses, Errors in sampling, level of signi ficance. Large sample test: Test of significance for single proportion, difference of proportions, single mean and difference of means. Small Sample Tests: T - Test for single mean, differences of Means. F - Test for equality of two population variances. Chi - S quare test of Goodness of fit."
+    },
+    {
+      "title": "UNIT - V - Analysis of Variance and Time Series",
+      "content": "One way classification - Assumptions for ANOVA Test - ANOVA for fixed effect model - Two - way classification - ANOVA for fixed effect model - Components of Time series - Measurement of Trend -   Method of semi Averages -   Moving Averages Method (3 Years and 5 Years)."
+    }
+  ],
+  "22CSC43": [],
+  "22CSC13N": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Queries using Built - In  functions, like aggregate functions, String Functions, Numeric Functions, Data Functions, Conversion Functions and other miscellaneous. 2.   Queries using DDL and DML statements. 3.   Queries using Group By, Order By, Having Clauses and set operations. 4.   Queries on C ontrolling Data: Commit, Rollback and Save point. 5.   Queries for Creating, Dropping and Altering Tables, Views and Constraints. 6.   Queries using Joins, views and Sub - Queries. 7.   Write PL/SQL code using Basic Variables, bind and substitution variables. 8.   Write PL/SQL   code using Control Structures. 9.   Write PL/SQL code using Procedures, Functions. 10.   Write PL/SQL code using Cursors, Triggers and Exceptions."
+    }
+  ],
+  "22CSC09N": [],
+  "22CSU01": [],
+  "22ITC10": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "Network  Hardware,  Network  Topologies,  Reference  Models -   The  OSI  Reference Model -   the TCP/IP Reference Model  –   A Comparison of the OSI and TCP/IP Reference, Packet Switching, Circuit Switching and Virtual Circuit Switching. Physical Layer: Gui ded Transmission media, Twisted Pairs, Coaxial Cable, Fiber Optics, Wireless transmission."
+    },
+    {
+      "title": "UNIT - II - Data Link Layer",
+      "content": "Design Issues, Error Detection and Correction, Elementary Data Link Protocols: Simplex Protocol, A Simplex Stop and Wait Protocol for an Error - free channel, Sliding Window Protocols, Go - Back - N, Selective Repeat.   Medium Access Sub Layer:   The Channel alloca tion problem, Multiple Access Protocols: ALOHA, Carrier Sense Multiple Access Protocols."
+    },
+    {
+      "title": "UNIT -   III - Network  Layer",
+      "content": "Design  Issues,  Routing  algorithms:  The  Optimality  Principle,  Shortest  Path Algorithm, Flooding, Distance Vector Routing, Link State Routing , OSPF, BGP, Quality of Service, The Network layer in the Internet -   The IP Version 4 Protocol, IP Addresses, IP Version 6."
+    },
+    {
+      "title": "UNIT - IV - Transport  Layer",
+      "content": "Transport  Service,  Berkeley  Sockets,  Elements  of  Transport  Protocols,  The Internet Transport Protocols:   In troduction to UDP, The TCP Protocol, The TCP Segment Header, The TCP Connection Establishment, TCP Connection Release, TCP Sliding Window, TCP Timer Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING Management, TCP Flow Control, Congestion Control."
+    },
+    {
+      "title": "UNIT - V - Application Layer",
+      "content": "DNS, The Domain Name System,  The DNS Name Space, Domain Resource Records, Name Servers.  Electronic MAIL:   Architecture and Services, The User Agent, Message Formats, Message Transfer, Final Delivery, SMTP, FTP, TELNET, SNMP."
+    }
+  ],
+  "22CSC15N": [
+    {
+      "title": "UNIT - I - Introduction   to   Operating   Systems",
+      "content": "Computer   System   overview,   Components   of   a   computer   system, functions  of  OS,  Examples  and  different  types  of  OS  (RTOS  vs.  desktop  vs.  mobile  etc.),  OS distributions  and  versions.   OS   architectures:   Micro - kernel,   Layered,   Kernel   Approaches   and examples, Linux/Unix OS Design and architecture overview."
+    },
+    {
+      "title": "UNIT - II - Process   management",
+      "content": "Program   vs.   process,   process   states,   Process   Control   Block   (PCB),   OS   services and system calls  (fork, wait, exec, getpid, getppid etc.),  system calls vs. System programs, Process scheduling -   Process  context  switching,  scheduling  algorithms,  scheduling  criteria.  Process management in Unix/Linux.   Inter Process   Communication:  Linux IPC Mechanisms, RPC, RPC exception handling   and Security  issues."
+    },
+    {
+      "title": "UNIT - III - Memory Management",
+      "content": "Memory view of a process, Process memory usage requirements, virtual and physical  memory  related  system  calls  (mmap,  munmap,  sbrk,  mprotect).  Address  translation mechanisms     static   mapping,   segmentation,   paging,   page   faults,   p age   replacement   algorithms,   page sharing,   read/write   permissions,   swapping. Memory management in Linux/Unix.  Secondary   Memory Management:   Disk   structure,   disk   scheduling,   disk   management,   buffering,   swap space management. Chaitanya   Bharathi   Institute   of   Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Concurrency  and  Synchronization ",
+      "content": "Introduction  to  threads,  benefits,  types  and  thread  APIs, Synchronization, issues, hardware and software solutions for synchronization, Classical problems of synchronization.  Deadlocks:  Introduction,  necessary  conditions  for  deadlock  occur rence,  RAG, deadlock handling mechanisms  -   prevention, avoidance and recovery."
+    },
+    {
+      "title": "UNIT - V - File   Systems",
+      "content": "File   concepts,   file   types,   allocation   and   organization   methods,   file   handling   system   calls, File system metadata, directory structure, caching optimizations, File Systems case study.  OS   Security and   Defence:   Types   of   threats   in   OS,   basic   security   mechanisms,   malware   taxonomy, viruses, worms, and rootkits,   logging,   auditing,   and   recovery."
+    }
+  ],
+  "22CSC21N": [
+    {
+      "title": "UNIT  -   I - Introduction  to  Software  Engineering",
+      "content": "Software  Engineering  Practice,  The  Software  Process, Software Engineering Practice Process Models: A Generic Process Model, Process assessment and Improvement, Prescriptive Process Models: Waterfall Model, Incremental Process Models, RAD Model, Evolutiona ry Process Models  -   Prototyping, The Spiral Model, Specialized Process Models."
+    },
+    {
+      "title": "UNIT  -   II - An Agile Development",
+      "content": "Agility, Agile Process, and Agile Process Models -   Extreme Programming (XP),  Adaptive  Software  Development  (ASD),  Scrum,  Dynamic  Systems  Developm ent  Method (DSDM), Feature Driven Development (FDD), Agile Modelling (AM), Requirement Engineering, Establishing  the  groundwork,  Eliciting  Requirements,  Negotiating  Requirements,  and  Validating Requirements. Software Requirements Analysis and Specification : Value of a Good SRS, Problem Analysis, Requirements Specification. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   III - Planning a software Project",
+      "content": "Effort Estimation, Project Schedule and Staffing, Quality Planning, Risk Management,  Estimation  for  Software  Projects:  Decomposition  Techniques  -   Software  Sizing, Problem - Based  Estimation,  An  Example  of  LOC - Based  Estimation,  An  Example  of  FP - Based Estimation, COCOMO Model"
+    },
+    {
+      "title": "UNIT  -   IV",
+      "content": "Function - oriented modelling, Design Concepts  - Coupling, Cohesion, Flow - oriented modelling - DFDs with Examples,  Software Architecture, A Brief Taxonomy of Architectural Styles, Component - Level Design: Definition, Basic Design Principles, Design Guidelines, Designing Traditional Components, Coding Principles and guidelines, Incremental Development of Code, Code Inspe ction  –   Planning."
+    },
+    {
+      "title": "UNIT  -   V - Testing  -   Testing Concepts, Testing Process, Testing Strategies",
+      "content": "A Strategic approach to software testing, strategic issues, test strategies for Conventional Software, Validation Testing, System Testing, White Box Testing, Black   Box. Automatic vs. Manual Testing, Software Review Techniques  -   Informal Reviews Formal Technical Reviews, Quality Concepts  -   What is Quality, Software Quality, Objectives, Software Quality Attributes (McCall’s,HP)Deployment overview, Deployment planning,   Deployment Rollback."
+    }
+  ],
+  "22CSC59": [
+    {
+      "title": "UNIT – I - Introduction",
+      "content": "What Is Data Science? Where Do We See Data Science? Finance, Public Policy, Politics, Healthcare, Urban Planning, Education, Libraries. How Does Data Science Relate to Other Fields: Data Science and Statistics, Data Science and Computer Scien ce, Data Science and Engineering, Data Science and Business Analytics, Data Science, Social Science, and Computational Social Science, The Relationship between Data Science and Information Science: Information vs. Data Users in Information Science, Data Sc ience in Information Schools (iSchools). Computational Thinking. Skills for Data Science, Tools for Data Science, Issues of Ethics, Bias, and Privacy in Data Science.  Data:   Introduction, Data Types: Structured Data, Unstructured Data, Challenges with Unstr uctured Data.  Data Collections: Open Data, Social Media Data, Multimodal Data, Data Storage and Presentation.  Data  Pre - processing: Data Cleaning, Data Integration, Data Transformation, Data Reduction, Data Discretization."
+    },
+    {
+      "title": "UNIT –   II - Techniques ",
+      "content": "Introductio n:  Data  Analysis  and  Data  Analytics,  Descriptive  Analysis:  Variables, Frequency Distribution, Measures of Centrality, Dispersion of a Distribution.  Diagnostic Analytics: Correlations, Predictive Analytics, Prescriptive Analytics, Exploratory Analysis, Mech anistic Analysis: Regression.  Statistics:   Understanding attributes and their types, Types of attributes, Discrete and continuous  attributes,  measuring  central  tendency:  Mean,  Mode,  Median,  measuring  dispersion, Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Skewness and kurtosis, understanding relation ships using covariance and correlation coefficients: Pearson's  correlation  coefficient,  Spearman's  rank  correlation  coefficient,  collecting  samples, performing parametric tests.  Descriptive Statistics:   Understanding statistics, distribution functions unifo rm distribution, normal distribution, exponential distribution, binomial distribution. Cumulative distribution function, descriptive statistics."
+    },
+    {
+      "title": "UNIT – III - NumPy and pandas ",
+      "content": "Understanding NumPy arrays, NumPy array numerical data types, manipulating array  shapes, The stacking of NumPy arrays, Partitioning NumPy arrays, Changing the data type of NumPy arrays, Creating NumPy views and copies, Slicing NumPy arrays, Boolean and fancy indexing, Broadcasting arrays, Creating pandas Data Frames, understanding pand as Series, Reading and querying the   Quandl data, describing pandas Data Frames, Grouping and joining pandas Data Frame, working with missing values, creating pivot tables, dealing with dates."
+    },
+    {
+      "title": "UNIT – IV - Data Cleaning ",
+      "content": "Exploring data ,  Filtering data to weed o ut the noise, Column - wise filtration, row - wise filtration.  Handling missing values, dropping missing values, Filling in a missing value, Handling outliers,  Feature  encoding  techniques:  one - hot  encoding,  Label  encoding,  ordinal  encoder. Correlation:   Introd ucing  correlation,  Types  of  analysis,  understanding  univariate  analysis, understanding bivariate analysis, Understanding multivariate analysis. Discussing multivariate analysis using the Titanic dataset.  Hypothesis Testing and Regression:   Hypothesis testin g, Hypothesis testing principle, stats models library, Average reading time, Types of hypothesis testing, T - test."
+    },
+    {
+      "title": "UNIT – V",
+      "content": "Supervised  Learning   -   Regression  Analysis,  Linear  regression,  Multiple  linear  regression, understanding multicollinearity, removing mu lticollinearity, Dummy variables, developing a linear regression model, Evaluating regression model performance, R - squared, MSE,  MAE, RMSE, fitting polynomial regression, Regression models for classification, Logistic regression, Characteristics of the lo gistic regression model, Types of logistic regression algorithms, Advantages and disadvantages of logistic  regression,  implementing  logistic  regression  using  scikit - learn.  Unsupervised  Learning clustering   -   PCA and Clustering:   Unsupervised learning, reduci ng the dimensionality of data, PCA, Performing PCA. Finding the number of clusters, the elbow method, the silhouette method, Partitioning data  using  k - means  clustering,  Hierarchical  clustering,  DBSCAN  clustering,  Spectral  Clustering: clustering, Evaluating   clustering performance, Internal performance evaluation, The Davies - Bouldin index, The silhouette coefficient, External performance evaluation, The Rand score, The Jaccard score, F - Measure or F1 - score, The Fowlkes - Mallows score."
+    }
+  ],
+  "22CSE01": [
+    {
+      "title": "UNIT  -   I - 2D Primitives",
+      "content": "Graphics systems, Algorithms for drawing 2D primitives - Line, Circle and Ellipse, Attributes of Output  primitives, Applications of computer graphics."
+    },
+    {
+      "title": "UNIT  -   II - 2D Graphics",
+      "content": "Two Dimensional Geometric Transformations, 2D Viewing, 2D Line Clipping, 2D Graphics design software - Inkscape, GIMP, Software."
+    },
+    {
+      "title": "UNIT  -   III - 3D Graphics",
+      "content": "3D concepts, Object representatio ns, 3D geometric and modeling transformations, 3D Viewing, Visible Surface detection methods."
+    },
+    {
+      "title": "UNIT  -   IV - Multimedia",
+      "content": "Multimedia  Objects,  Graphics  and  image  data  representations,  Color  Models, Compression techniques and standards, Storage and Retrieval tech nologies, Hypermedia."
+    },
+    {
+      "title": "UNIT  -   V - Animation",
+      "content": "Animation and Modeling techniques in multimedia, Texture and Shading, Tweening and Morphing, Lightening and Rendering, Image editing and Manipulation, Interactive   animation using authorized tools - Blender, Synfig,  Adobe Animate. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    }
+  ],
+  "22CSE03N": [
+    {
+      "title": "UNIT  -   I - Introduction ",
+      "content": "Basics definitions, objectives, models, a pplications.  Linear Programming (LP) : Mathematical  Formulation  of  LP  Problem  (LPP),  Graphical  Method,  Some  Exceptional  Cases, Simplex  Method :  Introduction,  computational  procedure,  artificial  variables  technique,  Bi g  M Method."
+    },
+    {
+      "title": "UNIT  -   II - Duality  Theory",
+      "content": "Concept  of  duality,  duality  and  simplex  method,  Transportation  problem Introduction,  Mathematical  Formulation  of  transportation  Problem,  Balanced  /  Unbalanced, Minimization / Maximization, Determination of the initi al basic feasible solution using (i) North - West Corner Rule (ii) Least cost method & (iii) Vogel’s approximation method for balanced & unbalanced transportation problems. Obtaining of optimal solution using  uv method and Steppingstone method. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   III - Assignment Routing Problems",
+      "content": "Introduction, Mathematical Formulation of Assignment Problem, Hungarian method for optimal solution, solving unbalanced problem, Traveling salesman problem. Sequencing Problems:   Sequencing models, Solution of Sequencing Probl em  –   Processing n Jobs through 2 Persons/Machines  –   Processing n Jobs through 3 Persons/Machines  –   Processing 2 Jobs through m Persons /machines  –   Processing n Jobs through m Persons /Machines."
+    },
+    {
+      "title": "UNIT  -   IV - Game and strategies",
+      "content": "Introduction, Game with max imin - minimax principle (Pure Strategies).Game with  Mixed  Strategies,  Dominance  Property,  Linear  Programming  Approach  for  Game  Theory. Dynamic Programming:   Characteristics, DPP Algorithm, Solving LPP by dynamic programming."
+    },
+    {
+      "title": "UNIT  -   V - Network Analysis",
+      "content": "Cons truction of Network Rules & Precautions, C.P.M. & P.E.R.T. Networks, Obtaining  of  Critical  Path,  Time  estimates  for  activities,  Probability  of  completion  of  project, Determination  of  floats.  Integer  Programming  Problem:   Introduction,  Types  of  Integer Progr amming Problems, Gomory’s All - IPP Method, All IPP Algorithm, Branch and Bound Technique."
+    }
+  ],
+  "22CSE17": [
+    {
+      "title": "UNIT - I",
+      "content": "Introduction to Kotlin  -   Basic expressions  -   Control flow statements  -   null safety  –   Functions -   passing functions as  arguments  -   simple lambdas. Object oriented programming in Kotlin  -   Classes and Objects –   Constructors  -   Visibility modifiers  -   Subclasses and Inheritance  –   Interfaces  -   Data classes  -   Singleton class  –   Pairs -   Triples."
+    },
+    {
+      "title": "UNIT - II - Introduction to Android  Architecture",
+      "content": "History  -   Features and Android Architecture  –   Android SDK Tools  -   Application Components  -   User Interface Design  -   Views  -   View Groups  –   Layouts  -   Event Handling  –   Listeners  –   Adapters  –   Menus  -   Action Bars  –   Android Localization."
+    },
+    {
+      "title": "UNIT - III - Intents and Broadcasts",
+      "content": "Intent  –   Using intents to launch Activities, Explicitly starting new Activity, Implicit Intents, Passing data to Intents, Getting results from Activities, Native Actions, using Intent to dial a number or to send SMS. Broadcast Recei vers  –   Using Intent filters to service implicit Intents, Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Resolving Intent filters, finding and using Intents received within an Activity. Notifications  –   Creating and Displaying notifications, Displaying Toasts."
+    },
+    {
+      "title": "UNIT - IV",
+      "content": "Camera  – Playing audio/video  -   Medi a recording  -   Sensors  -   Listening to sensor readings  –   Bluetooth  - Android Communications  –   GPS  -   Working with Location Manager, working with Google Maps extensions  -   Maps via intent  -   Location based Services  -   Location Updates  -   Location Providers  - Selec ting a Location Provider  -   Finding Location."
+    },
+    {
+      "title": "UNIT - V",
+      "content": "Content Providers  –   Uri  -   CRUD access  – Browser  –   CallLog  –   Contacts  –   Media Store  -   Data Access and Storage  -   Shared Preferences  -   Storage External  -   Network Connection  -   SQLite Databases  - Deploying  Android Application to the World."
+    }
+  ],
+  "22CSE19": [
+    {
+      "title": "UNIT - I - Introduction to Big Data",
+      "content": "Data and its types: Unstructured, Semi - structured, Structured  –   Sources of data  –   Evolution and Definition of Big Data  –   Characteristics (3Vs/5Vs)   and Challenges  –   Need for Big Data , , Big data integration process, Applications. Overview of Business Intelligence, Data Science, Analytics  –   Typical analytical architecture   –   Types of Analytics (Descriptive, Predictive, Prescriptive)"
+    },
+    {
+      "title": "UNIT - II - Hadoop Ecos ystem",
+      "content": "Requirement   of   Hadoop   Framework  -   Design   principle   of Hadoop   – Comparison with   other   system   (SQL, RDBMS)  -   Core c components   of Hadoop   –   Architecture   - Hadoop   1   vs Hadoop 2  –   HDFS   operations, Data ingestion layer, ETL and ELT, Ingestion tools in Hadoop ecosystem, Data ingestion types."
+    },
+    {
+      "title": "UNIT - III - Big   Data   Frame   Works ",
+      "content": "Hadoop   Frame work :   Introduction to MapReduce, Processing data with Hadoop using MapReduce ,   Map   Reduce   Programming:   I/O   formats, Map   side   join - Reduce   Side   Join , Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Secondary  Sorting - Pipelining  MapReduce  jobs .   Introduction   to   YARN,   Architecture,   Managing Resources   and   Applications   with   Hadoop   YARN."
+    },
+    {
+      "title": "UNIT - IV - Hive and Pig",
+      "content": "Introduction to Hive: What is Hive, Hive Architecture,  Hive data types, Hive file formats, Hive Query Language (HQL), RC File implementation, User Defined Function (UDF). Introduction to Pig : What is Pig, Anatomy of Pig, Pig on Hadoop, Data types in Pig, Running Pig, Execution Modes of Pig, HDFS Commands,  Relational Operators, Eval Function, Complex Data Types, Piggy Bank, User Defined Function, Pig Vs Hive."
+    },
+    {
+      "title": "UNIT - V - Apache  Spark  Framework",
+      "content": "Introduction  to  Apache  spark - Design  principles ,  Advantages  and Disadvantages, Layered architecture,   Programming with R DDs: Create RDD -   S park  o perations  - transformations, actions - D AG in Apache spark. Case Study:   Analyze student academic data to find trends, subject difficulty levels, and top performers using big data tools."
+    }
+  ],
+  "22CAE03N": [
+    {
+      "title": "UNIT - I - Fundamentals of Image Processing ",
+      "content": "Introduction, , fundamental steps, components, , , image sensing and  acquisition,  image  sampling  and  quantization,  basic  relationships  between  pixels.  Intensity Transformations and Spatial Filtering:   Background, some basic intensity transformation functions, histogram processing, fundamentals of spatial filtering, smoothing spatial filters, sharpening spatial filters, combining spatial enhancement methods."
+    },
+    {
+      "title": "UNIT - II - Filtering  in  the  Frequency  Domain ",
+      "content": "Background,  preliminary  concepts,  sampling  and  Fourier transform  of  sampled  functions,  discrete  Fourier  transform  (DFT)  of  one  variable,  extension  to functions of two variables, some properties of the 2 - D discrete Fourier transform, basics of filtering in the frequency domain, image smoothing, image sharpening, homo -   morphic filtering."
+    },
+    {
+      "title": "UNIT - III - Image Restoration",
+      "content": "Noise models, restoration in the presence of noise only - spatial filtering, periodic noise reduction by frequency domain filtering, linear degrad ation, position - invariant degradation, Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING estimating the degradation function, inverse filtering, minimum mean square error filtering, constrained least squares filtering, geometric mean filter."
+    },
+    {
+      "title": "UNIT - IV - Wavelets  and  Multi  Resolution  Processing ",
+      "content": "Background,  multi - resolution  expansions,  wavelet transforms in one dimension, the fast wavelet transform, wavelet transforms in two dimensions, wavelet packets. Image Compression: Fundamentals, image compression models, , lossy compression,."
+    },
+    {
+      "title": "UNIT - V - Image  Segmentatio n",
+      "content": "Fundamentals,  point,  line  and  edge  detection,  thresholding,  region - based segmentation, segmentation using  morphological  watersheds, the use of  motion in segmentation. Morphological Image Processing: Preliminaries, erosion and dilation, opening and closi ng, the Hit - or - Miss transformation, some basic morphological algorithms, some basic gray - scale morphological algorithms."
+    }
+  ],
+  "22BTO01": [
+    {
+      "title": "UNIT - I - Introduction  to  Biology",
+      "content": "Classical  Vs  Modern  Biology;  Importance  of  Biological  Science  and Historical developments; Origin of Life, Urey Miller Experiment, Spontaneous Generation Theory; Three Domains of Life; Principle and Applications of Microscope (Light and Electron Microscop e), Prokaryotic and Eukaryotic Cell -   Structure and their differences."
+    },
+    {
+      "title": "UNIT - II - Human Anatomy and Functions - I",
+      "content": "Human organ systems and their functions; Skeletal System - Bones, Tendon, Ligaments, principle and applications in knee replacement; Nervous Syste m  -   Structure of Brain, Spinal Cord, Neuron, Neurotransmitters, Synapse, Alzheimer’s  -   a case study, principle and applications of Imaging Techniques (CT & MRI scans); Circulatory System  -   Heart structure and functions, principle and applications of cardia c devices (Stent and Pacemaker), Artificial heart, blood components and typing, haemocytometer. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - III - Human Anatomy and Functions - II",
+      "content": "Respiratory Systems  -   Lung structure and function, principle and applications  of  Peak  Flow  Meter,  ECMO  (Extra  Corporeal  Membrane  Oxygenation);  Excretory Systems - Kidney structure and function, principle and applications of Dialysis; Prenatal diagnosis; Ass isted reproductive techniques -   IVF, Surrogacy."
+    },
+    {
+      "title": "UNIT - IV - Medical Biotechnology and Bioremediation",
+      "content": "Cells of Immune System, Etiology of cancer, Cancer treatment (Radiation Therapy); Stem Cells and its Clinical applications; Scaffolds and 3D printing of org ans; Bio sensors and their applications; Parts of bioreactor and its types; Bioremediation."
+    },
+    {
+      "title": "UNIT  -   V - Bioinformatics",
+      "content": "Nucleic acid composition, Genetic Code, Amino acid, Polypeptide, Levels of protein structure, Homolog, Ortholog and Paralog, Phylogenet ics, Genome Sequencing, Human Genome Project, Next generation sequencing."
+    }
+  ],
+  "22CEO02": [
+    {
+      "title": "UNIT - I - Fundamental concepts in disaster management",
+      "content": "Hazard and disaster - concepts, vulnerability and risk, Hazard   and disaster type  –   Natural, Water -   related, pandemic and Human induced hazards disasters. Causes and Impacts   of disasters  –   Impacts on natural eco systems: physical, psychological and social impact.  Disaster  and  financial   resilience.  Disaster   vulnerability  profile  of  India  – Specific  to geographical regions and   states (as   per   regional   significance)"
+    },
+    {
+      "title": "UNIT - II - Disaster   Management   Cycle",
+      "content": "Rescue,   Relief,  Rehabilitation,   Prevention,  Mitigation   and Preparedness.   Disaster risk reduction (DRR).  Community based DRR, institutions concerned with safety, disaster mitigation   and   construction   techniques   as   per   Indian   standards   and   Early   warning systems"
+    },
+    {
+      "title": "UNIT - III - Disaster Impacts Management",
+      "content": "Trauma and stress management, First aid and emergency procedures Awareness generation strategies for the community on safe practices in disaster (as per regional significance) Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Institutional framework of disaster management in India ",
+      "content": "NDMA - SDMA, N DRF, civic volunteers, and  NIDM.  Phases  of  disaster/risk  management  and  post - disaster  responses.  Compensation  and insurance Applications of remote sensing & GIS in disaster management. Components of disaster management. Preparedness of rescue and relief, m itigation, rehabilitation & reconstruction. Institutional frame work of   disaster   management   in   India"
+    },
+    {
+      "title": "UNIT - V - Capacity   building   for   disaster/damage   mitigation",
+      "content": "Structural   and   Nonstructural   measures   for capacity   building for disaster/damage mitigation.  Disaster risk reduction strategies and national disaster management   guidelines.  Disaster  management  Act  - 2005.  Regional  issues  as  per  regional requirement/university can take   minimum   two   topics   as   per   high   powered   committee"
+    }
+  ],
+  "22CHO04": [
+    {
+      "title": "UNIT - I",
+      "content": "Introduction of sustainability -   Need and concept of Sustainable Engineering, Social - environmental and economic sustainability concepts, Sustainable development and challenges,   Sustainable Development Goals, Environmental acts and protocols  –   Clean Development Mechanism (CDM)."
+    },
+    {
+      "title": "UNIT - II",
+      "content": "Economic and social factors affecting sustainability, Effects of pollution from natural sources, Solid waste - sources, impacts, 4R (Reduce, Reuse , Recycling, Recover) concept, Ozone layer depletion, Global warming, Tools used to ensure sustainability in engineering activities such as environmental management systems and environmental impact assessment studies. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - III",
+      "content": "Global, Regional and Loc al environmental issues, Carbon credits and Carbon trading, Carbon foot print, Environmental management standards, ISO 14000 series, Life cycle Analysis (LCA) - scope and goal, Procedures of EIA (Environment Impact Assessment) in India."
+    },
+    {
+      "title": "UNIT - IV",
+      "content": "Basic  concept of sustainable habitat - Sustainable cities, Sustainable transport, Sustainable sources of energy conventional and renewable sources, Green Engineering: Green buildings, Green materials for sustainable design, Methods for increasing energy efficienci es of buildings."
+    },
+    {
+      "title": "UNIT - V",
+      "content": "Technology  and  sustainable  development,  Sustainable  urbanization,  Industrialization  and  poverty reduction,  Social  and  Technological  change,  Industrial  processes - material  selection,  Pollution prevention, Industrial ecology, Industr ial symbiosis."
+    }
+  ],
+  "22MEO01": [
+    {
+      "title": "UNIT  –   I - Introduction to Engineering & Thinking ",
+      "content": "Impact of science/engineering. Thinking and behaviour; Types  of  thinking  –   Linear  thinking,  lateral  thinking,  design  thinking.  Introduction  to  Design Thinking : Importance of Design Thinking & Human centric approach  –   Phases in design thinking process, fi ve - stage model as iterative method, applications of design thinking in various domains."
+    },
+    {
+      "title": "UNIT  –   II - Empathize phase ",
+      "content": "Understanding the unique needs of the user, empathize with the users, steps in empathize phase, developing empathy towards people, assuming  a beginner’s mind - set (what? why?), steps in immersion activity, body storming."
+    },
+    {
+      "title": "UNIT  –   III - Define phase",
+      "content": "Define the problem and interpret the result, analysis and synthesis, Personas  –   Four different perspectives on Personas, steps to creating personas, p roblem statement, affinity diagrams, empathy mapping. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  –   IV - Ideation phase ",
+      "content": "What is ideation, need, uses, ideation methods; Brainstorming, rules for brainstorming; Mind maps, guidelines to create mind maps; Ideation games; Six Thinking Hats; use of   doodling in expressing creative ideas."
+    },
+    {
+      "title": "UNIT  –   V - Prototyping phase",
+      "content": "Types of prototyping, guidelines for prototyping, storytelling, characteristics of good stories, reaching users through stories, importance of prototyping in design thinking; guidelines t o write value proposition.  Testing phase : Necessity to test, user feedback, conducting a user test, how to test, desirable, feasible and viable solutions, iterate phase."
+    }
+  ],
+  "22ECO05": [
+    {
+      "title": "UNIT - I - Introduction  to  Embedded  systems",
+      "content": "Embedded  systems  vs  General  computing  systems, Classifications,  Applications  areas,  Processor  embedded  into  a  system,  Processor  selection  for embedded system, Embedded hardware units and devices  in a system, Design metrics and Challenges in embedded system design."
+    },
+    {
+      "title": "UNIT - II - Embedded Processors",
+      "content": "PIC 18 Family Overview, Architecture, Instruction Set, Addressing modes, Timers and Interrupts of PIC 18. Capture/Compare and PWM modules of PIC 18."
+    },
+    {
+      "title": "UNIT - III - Introduction   to   advanced   processor   architecture",
+      "content": "ARM   design   philosophy. ARM   data   flow   model, Register   organization,   Program Status Register, Pipeline, Introduction to exceptions. ARM instruction set, Introduction ARM cortex series, salient features. U NIT - IV Embedded  System   Design  Cycle :  Embedded  system   design  and  co - design  issues  in  system development process, Design cycle in the development phase for an embedded system. Embedded software development tools: Host and Target  machines, Linker/Locators  for   embedded software, Embedded software into the target system. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Debugging tools and Applications",
+      "content": "Integration and testing of embedded hardware, testing methods, Debugging techniques, Laboratory tools and target hardware debugging: Logic Analyzer, Sim ulator, Emulator and In - Circuit Emulator, IDE. Case   Studies:   Design   of   Embedded   Systems   using   Microcontrollers  –   for   applications   in   the   area of   communications   and   automotives. (GSM/GPRS, CAN, Zigbee)."
+    }
+  ],
+  "22ITC11": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Write and analyze the output of various Network commands such as ping, ipconfig, arp,  netstat, tracert, nslookup, hostname, system info etc., 2.   Configure Peer to Peer Network with at least three hosts. 3.   Implement Cyclic Redundancy Check method. 4.   Configuration of Cisco Router and VLAN. 5.   Installation  set up of Network simulator software (NS2/NS3/   NetSim /OPNET/ QualNet/ OMNet++ / J - Sim and Cisco Packet Tracer). 6.   Simulation of Star topology. 7.   Simulation of Stop and Wait Protocol, 8.   Simulation of Sliding Window Protocol 9.   Simulation of the Routing algorithms (Link State Routing/Distance Vector Routing) 10.   U se Wireshark Packet sniffer software and captures TCP, UDP, IP, ARP, ICMP, Telnet, FTP packets 11.   Implement Socket Programming. 12.   Implement SMTP protocol."
+    }
+  ],
+  "22CSC18N": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Demonstration   of   Linux/Unix   file   related   system   calls:   mkdir,   link,   unlink,   mount,   unmount, users+, chown, chmod, open, close,   read, write, lseek, stat, sync. 2.   Demonstration   of   Linux/Unix   process   related   system   calls:   fork,   wait,   exec,   exit, getpid, getuid, setuid brk, nice, sleep. 3.   Shell   programming. 4.   Implement   CPU   scheduling   algorithms   (a)   Round   Robin   (b)   SJF   (c)   FCFS. 5.   Implement   page   replacement   algorithms   (a)   FIFO   (b)   LRU. 6.   Programs   to   illustrate   threads. 7.   Demonstration   of   GNU/Linux   IPC   mechanisms -   Pipes,   Semaphores,   Shared   memory, Message Queues. 8.   Implementation   of   Classical   Problems   for   synchronization   (Dining   philosopher   problem   and Producer -   Consumer problem). 9.   Implementation   of   Bankers   algorithm   for   Deadlock   detection   and   avoidance. 10.   Implementation   of   Linked,   Indexed   and   Contiguous   file   allocation   methods."
+    }
+  ],
+  "22CSC49": [],
+  "22CSC52": [],
+  "22CSC24N": [
+    {
+      "title": "UNIT - I - Introduction   to   Compilers ",
+      "content": "Structure of a compiler,   Phases of a compiler, grouping of phases, Compiler  writing  tools,  Bootstrapping,  Data  structures.  Lexical   Analysis:   The   role   of   Lexical Analyzer,   Input   Buffering,   Specification   of   Tokens   using   Regular   Expressions,   Review   of   Finite Automata,   Recognition   of   Tokens, Design of Lexical Analyzer Generator (lex,   flex)."
+    },
+    {
+      "title": "UNIT - II - Syntax   Analysis",
+      "content": "Introduction to syntax analysis,  Top - Down   Parsing,   Recursive   d escent   parsing, Predictive   parsing,   LL (1)   Grammars.  Bottom - Up   Parsing:   Shift Reduce   parsing,   Operator   precedence parsing   (Concepts   only), Constructing SLR   parsing   tables,   Constructing   Canonical   LR parsing   tables, and   Constructing LALR   parsing   tables. Parser   generator (YACC,   BISON)."
+    },
+    {
+      "title": "UNIT - III - Syntax - Directed  Translation",
+      "content": "Syntax - directed  definitions,  Bottom - up  evaluation  of  S - attributed definitions, L - attributed definitions, Top - down translation, Bottom - up evaluation of inherited attributes. Type Checking:   Type systems, Specification of a simple type checker, Overview of Sy mbol Table. Introduction to Runtime Time Environments:   Storage Organizations, Stack, Heap organizations. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Intermediate   Code   Generation",
+      "content": "Intermediate   languages, Graphical   representations,   Three   Address code, Quadruples, Triples.  Code   Optimization:   Principal   sources   of   optimization,   Basic Blocks and Flow Graphs,  Optimization   of   b asic   blocks, Data Flow Analysis, Live Variable Analysis, Loops."
+    },
+    {
+      "title": "UNIT - V - Code   Generation",
+      "content": "Issues   in   the   Design of a Code Generator, The Target Machine, a simple Code Generator, Addresses  in Target Code,  Machine - independent optimization ,  Peephole  optimization, Overview of Register Allocation and Assignment,  Error recovery in various phases.  Advanced topics: R eview of Compiler Structure, Advanced elementary topics, Structure of optimizing compilers."
+    }
+  ],
+  "22CSC50": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "Foundations of AI, History, State of the Art, Risks and Benefits.  Intelligent agents: Agents and Environment, The Concept of Rationality, Structure of an Agent. Solving problems by Search:   Problem - Solving Agents, State space representation, Search graph an d Search tree searching for Solutions."
+    },
+    {
+      "title": "UNIT - II - Uninformed  Search  Strategies",
+      "content": "Breadth - first  search,  Uniform  cost  search,  Depth -   first  search, Iterative deepening Depth - first search, Bidirectional search.  Informed (Heuristic) Search Strategies : Heuristic F unctions, Hill -   climbing, Greedy best - first search, A* search   Adversarial Search:  Game Theory, Alpha – Beta Pruning, Constraint Satisfaction Problems."
+    },
+    {
+      "title": "UNIT - III - Machine  Learning",
+      "content": "Types  of  Machine  Learning  Algorithms  -   Supervised,  Unsupervised  and Reinforcem ent Learning.  Feature Selection and Feature Engineering:   Data sets, Creating training and test sets, managing categorical data, missing features, data scaling and normalization, Whitening, Feature  selection  and  filtering,  PCA,  Visualization  of  high - dimens ional  datasets.  Regression Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Algorithms:   Linear models for regression, Regression types, Evaluation Metrics, Hyper parameter tuning, Grid and Random search."
+    },
+    {
+      "title": "UNIT - IV - Linear Classification Algorithms",
+      "content": "KNN, logistic regression, classification metrics, ROC curve. Naïve Bayes and Discriminant Analysis:   Bayes theorem, Naïve Bayes classifiers, Discriminant analysis.  Support Vector Machines:    Linear SVM, Kernel - based classification."
+    },
+    {
+      "title": "UNIT - V - Decision Trees  and Ensemble Learning",
+      "content": "Binary Decision trees, Introduction to Ensemble Learning - Random Forests, AdaBoost, Gradient Tree Boosting, Voting classifier.  Clustering Fundamentals: Basics, Gaussian mixture, K - means, Evaluation methods, DBSCAN, Spectral Clustering , Hierarchical Clustering."
+    },
+    {
+      "title": "UNIT   -   I - Introduction   to   Numpy ",
+      "content": "Data   types   in   Python   -   Fixed   type   arrays,   creating   arrays,   array   indexing,   array slicing,  reshaping  arrays,  array  concatenation  and  splitting,  Universal  Functions,  Aggregations, Broadcasting rules, Comparisons, Boolean Arrays, Masks Fancy Indexing, Fast Sorting using np.sort and np.argsort, partial sorting Creatin g Structured Arrays, Compound types and Record Arrays."
+    },
+    {
+      "title": "UNIT   -   II - Introduction to Pandas",
+      "content": "Series Object, DataFrame Object, Data Indexing and Selecting for Series and DataFrames, Universal Functions for Index Preservation, Index Alignment and Operations between Series and DataFrames, Handling missing data, operating on Null values, Hierarchical   Indexing."
+    },
+    {
+      "title": "UNIT   -   III - Combining Datasets",
+      "content": "Concat, Append, Merge and Joins, Aggregation and Grouping, Pivot Tables, Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Vectorized String Operations,  High - Performance functions  -   query() and  eval()"
+    },
+    {
+      "title": "UNIT   -   IV - Time Series ",
+      "content": "Date and Time Data Types and Tools  ,Time Series Basics , Date Ranges, Frequencies, and Shifting     ,Time Zone Handling     , Time Zone Localization and Conversion     ,      Operations with Time Zone - Aware Timestamp Objects , Operations Between Different Time Zones     ,Periods and Period Arithmetic ,Res ampling and Frequency Conversion     , Moving Window Functions."
+    },
+    {
+      "title": "UNIT   -   V - Visualization   with   Matplotlib   ",
+      "content": "Simple   Line   plots,   Scatter   plots,   Visualizing   errors,   Density   and Contour plots, Histograms, Binnings, Multiple subplots, Three - dimensional plotting with   Matplotlib, Geographic data with Basemap, Visualization with Seaborn."
+    }
+  ],
+  "22CSE04": [
+    {
+      "title": "UNIT  -   I",
+      "content": "Introduction  -   Shared Objects and Synchronization, A Fable, Properties of Mutual Exclusion, The Moral, The  Producer – Consumer Problem, The Harsh Realities of Parallelization. Mutual Exclusion  - Time, Critical Sections, 2 - Thread Solutions, The Peterson Lock, The Filter Lock, Lamport’s Bakery Algorithm."
+    },
+    {
+      "title": "UNIT  -   II",
+      "content": "Concurrent  Objects   - Concurrency  and  Correctness,  S equential  Objects,  Quiescent  consistency, Sequential  Consistency,  Linearizability,  Linearization  Points,  Formal  Definitions  Linearizability, Compositional Linearizability, The Nonblocking Property, Progress conditions, Dependent Progress Conditions, The Ja va Memory Model, Locks and synchronized Blocks, Volatile Fields, Final Fields"
+    },
+    {
+      "title": "UNIT  -   III - Synchronization  Operations",
+      "content": "Synchronization  Operations,  Consensus  Numbers,  Consensus Protocols,  The  compareAndSet()  Operation,  Introduction  Universality,  A  Lock - Free  Universal, Construction Wait -   Free Universal Construction, Spin Locks , Test - And - Set Locks Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT -   IV - Linked Lists",
+      "content": "The Role of Locking, Introduction, List - Based Sets, Concurrent Reasoning, Coarse - Grained  Synchronization,  Fine - Grained  Synchronization,  Optimistic  Synchronization,  Lazy Synchronization, Non - Blocking Synchronization"
+    },
+    {
+      "title": "UNIT  -   V - Concurrent Queues and the ABA Problem",
+      "content": "Concurrent Queues and the ABA Problem, Concurrent Stacks and Elimination, Transactional Memories"
+    }
+  ],
+  "22CSE05": [
+    {
+      "title": "UNIT - I - Object Based Database Systems",
+      "content": "Object Database Concepts Overview: Object Oriented Concepts and  Features,  Object  Identity,  Complex  data  types,  Encapsulation  of  Operations  and  Object Persistence, Type Hierarchies and Inheritance. Object Based  Extensions to S QL:   User - Defined Types using  CREATE TYPE and  Complex  Objects  ODMG  Object  Model  and  the  Object  Definition Language."
+    },
+    {
+      "title": "UNIT - II - Temporal  Database  Systems",
+      "content": "Temporal  Data  model:  Conceptual  Objects,  Temporal  Objects, temporal Constraints, Temporal and Non Tempora l Attributes, Conceptual Relationships, Temporal Relationships  and  constraints  among  relationships.  The  Temporal  Query  Language:  Temporal Projection, Temporal Selection, Temporal Version Restriction Operators, Temporal Scope Operators."
+    },
+    {
+      "title": "UNIT - III - Parallel D atabase Systems",
+      "content": "I/O Parallelism:   Partitioning Techniques, Managing Skew. Inter query Parallelism  and  Intra  query  Parallelism,  Intra - operator  Parallelism  (Parallel  Sort  and  Parallel Join).Inter - operator  Parallelism:  Pipelined  Parallelism  and  Independent  Pa rallelism  Query Optimization. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Distributed Database Systems",
+      "content": "Distributed Database Concepts. Data Fragmentation, Replication and Allocation Techniques for Distributed Database Design, Concurrency Control and Recovery. NoSQL Databases: Introduction,  the CAP theorem, Document based NoSQL systems, NoSQL Key - Value Stores, Column Based NoSQL Systems, NoSQL Graph Databases and Neo4j."
+    },
+    {
+      "title": "UNIT - V - Creating Distributed Multimedia Presentations ",
+      "content": "Objects in Multimedia Presentations, Specifying Multimedia Documents  with Temporal Constraints, Efficient Solution of Temporal Presentation Constraints,  Spatial  Constraints.  Distributed  Media  Servers:  Distributed  multimedia  server architecture, distributed retrieval plans, optimal distributed retrieval plans ."
+    }
+  ],
+  "22CSE06N": [
+    {
+      "title": "UNIT   -   I - Introduction to Game Theory",
+      "content": "Basic concepts: Players, strategies, payoffs, outcomes ,  Types of games: Normal - form and extensive - form games ,  Nash Equilibrium: Definition, existence (Nash’s Theorem), examples ,  Dominant  and dominated strategies ,  Best response dynamics."
+    },
+    {
+      "title": "UNIT   -   II",
+      "content": "An Introduction to Voting, The Game of Trust  -   Nicky Case's Interactive Essay, Arrow's Theorem, Gibbard -   Satterethwaite Theorem, Domain Restrictions and Multi - winner Elections, Incentive Design i n Crowd sourcing Applications."
+    },
+    {
+      "title": "UNIT   -   III - Complexity of Finding Equilibria",
+      "content": "Computing Nash Equilibrium: PPAD - completeness ,  Approximate equilibria ,  Zero - sum games and the Minimax theorem ,  Linear programming for solving two - player Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING zero - sum  games ,  Lemke - Howson  algorithm.  Mechanism  Design  and  Auctions:  Introduction  to mechanism design ,  Incentive compatibility and truthfulness ,  Vickrey and VCG auctions ,  Revenue maximization ,  Single - item and combinatorial auctions ,  Myerson’s Lemma."
+    },
+    {
+      "title": "UNIT   -   IV - Network a nd Congestion Games",
+      "content": "Congestion games and potential games ,  Price of Anarchy and Price of Stability ,  Routing in networks: selfish routing ,  Braess’s paradox ,  Wardrop equilibrium"
+    },
+    {
+      "title": "UNIT   -   V - Cooperative  Game  Theory  and  Applications",
+      "content": "Cooperative  games:  Core,  Shapley  value,  and applications ,  Matching  markets  and  stable  matchings  (Gale - Shapley  algorithm) ,  Applications  in blockchain, cloud computing, and distributed systems ,  Fair division and cake - cutting"
+    }
+  ],
+  "22CSE07N": [
+    {
+      "title": "UNIT -   I - Introduction ",
+      "content": "Overview  of  Optimization  Techniques,  Classical  vs.  Metaheuristic   Algorithms, Biological Inspiration Behind Algorithms, Evolutionary processes, Swarm behavior, Natural selection, Classification of Nature - Inspired Algorithms, Evolutionary, Swarm - based, Physics - based, Ecology - based, Applications & Real - World Relevance, En gineering, Data Science, Machine Learning, Robotics"
+    },
+    {
+      "title": "UNIT -   II - Evolutionary Algorithms",
+      "content": "Genetic Algorithms (GAs), Chromosomes, Selection, Crossover, Mutation, Fitness  Functions  and  Convergence,  Differential  Evolution  (DE),  Mutation,  Recombination,  and Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Selec tion,  Genetic  Programming  (GP),  Applications,  Function  optimization,  Scheduling,  Feature Selection"
+    },
+    {
+      "title": "UNIT  - III - Swarm  Intelligence  Algorithms",
+      "content": "Particle  Swarm  Optimization  (PSO),  Social  &  Cognitive Components, Velocity Update, Inertia, Ant Colony Optimization   (ACO), Pheromone Updating, Path Finding,  Convergence,  Artificial  Bee  Colony  (ABC),  Applications,  Routing,  Image  Processing, Clustering, Path Planning"
+    },
+    {
+      "title": "UNIT  - IV - Other Inspired Techniques",
+      "content": "Simulated Annealing (SA), Metaphor, Cooling Schedule, Acceptance Pr obability, Firefly Algorithm (FA), Attraction, Light Intensity, Movement Equation, Cuckoo Search (CS) & Levy Flights, Bat Algorithm, Harmony Search, Comparative analysis."
+    },
+    {
+      "title": "UNIT  - V - Applications  and  Implementation",
+      "content": "Real - world  Applications,  Optimization  in  Po wer  Systems, Mechanical Design, Network Design, Feature Selection in Machine Learning, Hybrid Algorithms & Memetic Computing, Performance Metrics & Benchmarking."
+    }
+  ],
+  "22CIE53": [
+    {
+      "title": "UNIT - I - Blockchain  Foundations",
+      "content": "Overview  of  distributed  systems,  Introduction  to  blockchain,  Generic elements of a blockchain, Features of blockchain, Applications of blockchain, Hash Functions and Merkle Trees, Components of blockchain Ecosystem, Cryptography and Consensus Algorithms, Types of blockchain, Blockchain Pl atforms."
+    },
+    {
+      "title": "UNIT - II - Bitcoin Platform",
+      "content": "Bitcoin definition, Keys and addresses, public keys and Private keys in bitcoin, The transaction life cycle, The transaction structure, Bitcoin payments, Consensus mechanism in bitcoin, Wallet types, Non - deterministic   wallets, Deterministic wallets, Alternative Coins: Namecoin, Litecoin, Zcash."
+    },
+    {
+      "title": "UNIT – III - Ethereum Blockchain",
+      "content": "Introducing Smart Contracts, Ethereum blockchain, The Ethereum stack, Ethereum  virtual  machine  (EVM),  Consensus  mechanism  in  Ethereum,  The  Ethere um  network, Ethereum    Development, Setting up a development environment, Development tools: Remix IDE, Truffle, Ganache. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Hyperledger  Fabric",
+      "content": "Introduction  to  Hyperledger  Fabric,  Hyperledger  Fabric  architecture, Membership   services, Hyperledger  Projects: Fabric, Sawtooth, Iroha, Components of the Fabric, Alternate blockchains -   Ripple, Corda, Hyperledger Smart Contracts (Chaincode)."
+    },
+    {
+      "title": "UNIT - V - Case studies using blockchain",
+      "content": "Cross border payments, Know Your Customer (KYC), Food supply chain, Mortgage   over blockchain, Identity on blockchain, Blockchain in Insurance Industry, Education, Healthcare, Real estate management and Metaverse."
+    }
+  ],
+  "22CSE08": [
+    {
+      "title": "UNIT  -   I - Introduction to UI/UX Design",
+      "content": "Understanding UI/UX Design: Definition and importance of UI/UX design, Difference between UI and UX, Roles and responsibilities of UI/UX designers, Overview of the  design  process.  User - Centered  Design  Principles :  Principles  of   user - centered  design,  User research  methods  (interviews,  surveys  and  observations),  Creating  user  personas  and  scenarios, Conducting user journey mapping exercises."
+    },
+    {
+      "title": "UNIT  –   II - Design Fundamentals",
+      "content": "Basic principles of visual design (layout, typography, col or),Gestalt principles and their application in UI design, applying visual hierarchy to improve user experience, Introduction to design tools (Sketch, Figma, Adobe XD)  Interaction Design : Principles of interaction design, Designing  effective  navigation  sys tems,  Feedback  mechanisms  and  user affordances  Prototyping techniques for interaction design Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   III - Usability and User Testing",
+      "content": "Understanding usability principles, Nielsen's heuristics for user interface design, conducting heuristic evaluations of UI  designs, Usability testing methods (moderated vs. unmoderated, remote testing)  User Testing and Feedback:  Planning and conducting usability tests, analyzing usability test results incorporating user feedback into UI design iterations, Best practices for it erative design and testing cycles"
+    },
+    {
+      "title": "UNIT  -   IV - Accessibility in UI/UX Design ",
+      "content": "Understanding accessibility guidelines (WCAG), Designing accessible interfaces  for  users  with  disabilities,  Assistive  technologies  and  their  impact  on  UI/UX  design. Emotional Desi gn and Engagement : Principles of emotional design, creating emotionally engaging user experiences, Strategies for enhancing user engagement and retention, Case studies of emotionally successful UI/UX designs."
+    },
+    {
+      "title": "UNIT  -   V - Responsive and Mobile Design ",
+      "content": "Principles of responsive web design, Mobile - first design approach, adapting layouts and content for different screen sizes, Testing and debugging responsive designs. Designing  for  Mobile  Platforms :  Mobile  UI  design  patterns  and  conventions,  Navigation  an d interaction patterns for mobile apps, Challenges and best practices for designing mobile interfaces, Introduction to mobile prototyping tools (InVision, Marvel)"
+    }
+  ],
+  "22CSE09N": [
+    {
+      "title": "UNIT  –   I",
+      "content": "Introduction   –   High Performance Computing Disciplines, impact of supercomputing on science, society  and  security;  anatomy  of  a  supercomputer,  compute  performance,  a  brief  history  of Supercomputing."
+    },
+    {
+      "title": "UNIT  -   II - HPC  Architecture,  Systems  and  Technologies ",
+      "content": "Key  propertie s  of  HPC,  Architecture,  Parallel architecture families, Flynn’s taxonomy, enabling technology, Van Neumann sequential processors, vector  and  pipelining,  Single  instruction  Multiple  Data  Array,  Multiprocessors,  Heterogeneous computer structures. Commodity   Clusters : Hardware architecture, Programming interfaces, Software environments."
+    },
+    {
+      "title": "UNIT  –   III - Symmetric Multiprocessor Architecture",
+      "content": "Architecture overview, Amdahl’s Law Plus, Processor Core architecture, memory hierarchy, PCI Bus, external interfaces.   OpenMP : Overview of OpenMP programming model, parallel threads and loops, synchronization, reduction. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Distributed memory parallel Programming with MPI",
+      "content": "Message passing interface standards, MPI basics,  communicators,  point - to - point  messages,  synchronization  collectives,  communication collectives, non - blocking point - to - point communication, user - defined data types."
+    },
+    {
+      "title": "UNIT  –   V - Accelerator Architecture",
+      "content": "Historic perspective, introduction to Graphics Processing Units, evolution of GPU functionalit y, modern GPU architecture, heterogeneous system architecture, introduction to System on Chip SoC), HPC on SoC, types of SoC, Edge Computing, High Performance on Edge devices.  Mass Storage :   Brief history of storage, storage device technology, aggregated st orage, high performance storage, all flash/SSD."
+    }
+  ],
+  "22CSE10N": [
+    {
+      "title": "UNIT  -   I",
+      "content": "Software Process Maturity Software maturity Framework, Principles of Software Process Change, Software Process Assessment, The Initial Process,  The Repeatable Process, The Defined Process, The Managed Process, The Optimizing Process. Process Reference Models Capability Maturity Model (CMM), CMMI, PCMM, PSP, TSP)"
+    },
+    {
+      "title": "UNIT  -   II - Activity Planning and Risk Management",
+      "content": "Objectives of Activity planning  –   Pr oject schedules  – Activities  –   Sequencing and scheduling  - Network Planning models  –   Formulating Network Model  – Forward Pass and Backward Pass techniques  –   Critical path (CRM) method  –   Risk identification  – Assessment  –   Risk Planning  - Risk Management  –   –   P ERT technique  –   Monte Carlo simulation  – Resource Allocation  –   Creation of critical paths  –   Cost schedules."
+    },
+    {
+      "title": "UNIT  -   III",
+      "content": "Project  Organizations  Line - of -   business  organizations,  project  organizations,  evolution  of organizations,  process  automation.  Project  Control  and  process  instrumentation,  The  seven - core metrics, management indicators, quality indicators, life - cycle expectations, Pragmatic software metrics, metrics automation. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   IV - Staffing in Software Projects",
+      "content": "Managing people  –   Organizational be havior  –   Best methods of staff selection  –   Motivation  –   The Oldham  –   Hackman job characteristic model  –   Stress  –   Health and Safety –   Ethical and Professional concerns  –   Working in teams  –   Decision making  –   Organizational structures –   Dispersed and Virtual  teams  –   Communications genres  –   Communication plans  –   Leadership."
+    },
+    {
+      "title": "UNIT  -   V",
+      "content": "Software configuration management, Software Quality assurance, Risk Analysis, Instream activities - Project Initiation, Project planning and tracking, Project closure."
+    }
+  ],
+  "22CSE21": [
+    {
+      "title": "UNIT   - I - Immersive Technology ",
+      "content": "Introduction Promise and Potential, Knowing immersive technologies  - AR/VR/ExR, Overview of immersive technologies, AR/VR Milestones and breakthroughs, Current state, Statistical data, Potential and Limitations of immersive technologies.  3D UI and Hardwa re requirements. Software Technologies used. AR and VR Environment. ."
+    },
+    {
+      "title": "UNIT - II",
+      "content": "Designing   Immersive   Experience   -   Introduction,   designing   for   sensory   immersion,   Designing   for emotional  immersion,  Designing  for  narrative  immersion,  Best  practices  for  user  inte rface  and experience design.  Evolution of VR Hardware  -   Introduction to virtual reality hardware, The rise of Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING consumer virtual reality, Virtual   reality hardware design   challenges,   The   future of   virtual   reality hardware, Role of haptic   feedback on virtual   reality   hardware,   Tools of VR kits   and    Case   studies."
+    },
+    {
+      "title": "UNIT - III - AI in AR/VR/XR",
+      "content": "- Introduction, AI and its usage in VR/AR, Graphic rendering, Natural language processing, User interaction, Predictive analytics.  Business Landscape of AR/VR/XR -   Introduction, Funding and investment, Funding and its challenges for VR/XR industry, Monetization strategies, User adoption and marketing, Technology challenges, Case studies."
+    },
+    {
+      "title": "UNIT - IV - Applications of AR/VR/XR in Healthcare",
+      "content": "- Introduction, Diagnosis and treatment, Reha bilitation and physical therapy Medical education and training, Use of immersive technology in patient education and engagement, Case studies, Design principles, Medical realities.  Applications of AR/VR/XR in Education:  Introduction, Immersive learning env ironment, Simulations and training, Personalized learning,   Collaborative learning, Case studies."
+    },
+    {
+      "title": "UNIT   - V - Ethics in Immersive Technologies",
+      "content": "Introduction to ethics in immersive technologies, Safety and physical health Psychological and emotional impact, Cas e studies.  3D Modeling and User Interface Design:  Introduction to 3D modelling, Modelling technique,  User interface design principles, User interface   design software and   workflow, Implementing UIs in 3D environment,  Case Study:  Building VR   Applications wi th Unity."
+    }
+  ],
+  "22CSE22": [
+    {
+      "title": "UNIT  –   I - Introduction  To  Business  Analytics ",
+      "content": "Definition  of  Business  Analytics,  Categories  of  Business Analytical methods and models, Business Analytics in practice, Big Data  -   Overview of using Data, Types of Data -   Business decision modelling."
+    },
+    {
+      "title": "UNIT  –   II - Descrip tive  Analytics ",
+      "content": "Overview  of  Description  Statistics  (Central Tendency,  Variability),  Data Visualization  - Definition,  Visualization  Techniques  –   Tables,  Cross  Tabulations,  charts,  Data Dashboards using Advanced Ms - Excel or SPSS. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  –   III - Predictive  Analytics ",
+      "content": "Trend Lines, Regression Analysis  –   Linear & Multiple, Predictive modelling, forecasting Techniques, Data Mining  -   Definition, Approaches in Data Mining -   Data Exploration & Reduction,  Data  mining  and  business  intelligence,  Data  mining  for  busines s,  Classification, Association, Cause Effect Modelling."
+    },
+    {
+      "title": "UNIT  –   IV - Prescriptive  Analytics ",
+      "content": "Overview  of  Linear  Optimization,  Non - Linear  Programming  Integer Optimization, Cutting Plane algorithm and other methods, Decision Analysis  –   Risk and uncertainty met hods  -   Text analytics Web analytics"
+    },
+    {
+      "title": "UNIT  –   V - Optimization And Decision Analysis",
+      "content": "L inear Programming and Optimization, Formulating and solving linear programming problems. Decision Analysis and Simulation, Techniques for making decisions under uncertainty  using simulation methods."
+    }
+  ],
+  "22MBC01": [
+    {
+      "title": "UNIT - I - Introduction to Managerial Economics",
+      "content": "Introduction to Economics and its   evolution  -   Managerial Economics  -   its Nature and Scope,  Importance; Relationship with other Subjects. Its usefulness to Engineers; Basic concepts of Managerial economics  -   Incremental, Time perspective, Discounting Principle, Opportunity Cost, Equimarginal Principle, Contribution, Negotiation Principle."
+    },
+    {
+      "title": "UNIT - II - Demand and Supply Analysis",
+      "content": "Demand Analysis  -   Concept of Demand, Determinants, Law of demand  -   Assumptions and Exceptions; Elasticity of demand  -   Price, Income and Cross elasticity  - simple numerical problems; Concept of Supply  -   Determinants of S upply, Law of Supply; Demand Forecasting  -   Methods."
+    },
+    {
+      "title": "UNIT - III - Production and Cost Analysis",
+      "content": "Theory of Production  -   Production function  -   Isoquants and Isocosts, MRTS,   Input - Output Relations; Laws of returns. Cost Analysis: Cost concepts  –   Types of Costs,  Cost - Output Relationship  –   Short Run and Long Run; Market structures  –   Types of Competition, Features of Perfect Competition, Price Output Determination under Perfect Competition, Features of Monopoly Competition,  Price  Output  Determination  under  Monopoly  Competition  Break - even  Analysis  – Concepts, Assumptions, Limitations, Numerical problems."
+    },
+    {
+      "title": "UNIT - IV - Accountancy",
+      "content": "Book - keeping, Principles and Significance of Double Entry Bookkeeping, Accounting Concepts and Conventions, Accounting Cycle, Journalization, L edger accounts, Trial Balance concept and preparation of Final Accounts with simple adjustments. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Capital and Capital Budgeting",
+      "content": "Capital and its Significance, Types of Capital, Estimation of Fixed and  Working  capital  requirements,  Methods  and  sour ces  of  raising  finance.   Capital  Budgeting, Methods: Traditional and   Discounted Cash Flow Methods  -   Numerical problems."
+    }
+  ],
+  "22CSC25N": [],
+  "22CSC51": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Identification and Installation of python environment towards the machine learning, installing python modules/Packages Import scikitlearn, keras and tensorflows etc. 2.   Implement A* algorithm on any problem. 3.   Implement an 8 - puzzle solver   using Heuristic search technique. 4.   Implement the Constraint Satisfaction problem using backtracking 5.   Build linear regression model using gradient descent, least squares and polynomial approaches also compare all the algorithms and draw a table for all the m etrics. 6.   Demonstration of Logistic Regression for a sample training data set stored as a .CSV file. Calculate the accuracy, precision, and recall for your dataset. 7.   Demonstration of Naïve Bayesian classifier for a sample training data set stored as a .CSV f ile. Calculate the accuracy, precision, and recall for your dataset. 8.   Build the decision tree classifier compare its performance with ensemble techniques like random forest, bagging, boosting and stacking. 9.   Demonstration of SVM and use for character recogni tion task. 10.   Demonstration of Kmeans and DBSCAN Clustering algorithms"
+    }
+  ],
+  "22CSC26N": [],
+  "22CSC54": [
+    {
+      "title": "UNIT  -   I - Introduction ",
+      "content": "Feedforward Neural Networks, Representation Power of Feedforward Neural Networks, Backpropagation , Historical Trends in Deep Learning .   Optimization : Challenges in Neural Network Optimization, Gradient Descent (GD), Stochastic GD, Momentum Based GD, Nesterov Accelerated GD, AdaGrad, RMSProp, Adam."
+    },
+    {
+      "title": "UNIT  -   II - Autoencoders ",
+      "content": "relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders,  Regularization:   Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods,  Dropout,  Greedy  Layer  wise  Pre - training,  Bette r  activation  functions,  Better  weight initialization methods, Batch Normalization"
+    },
+    {
+      "title": "UNIT  -   III - Convolutional Neural Network ",
+      "content": "The Convolution Operation, Motivation, Pooling, Convolution and Pooling as an Inﬁnitely Strong Prior, Variants of the Basic  Convolution Function, Structured Outputs, Data Types.   LeNet,  AlexNet,  GoogLeNet,  ResNet,  Visualizing  Convolutional  Neural  Networks, Guided Backpropagation, Deep Dream, Deep Art. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  –   IV",
+      "content": "Recurrent  Neural  Networks ,  Backpropagation  through  time  (BPTT),  Va nishing  and  Exploding Gradients, Truncated BPTT, GRU, LSTMs   Encoder Decoder Models, Attention Mechanism, Attention over images"
+    },
+    {
+      "title": "UNIT  –   V - Transformers",
+      "content": "Introduction to Transformers, BERT, Vision Transformers.   Generative Adversarial Networks (GANs):  Introdu ction, Discriminator, Generator, Activation functions for GANs, BCE loss, Conditional GANs, Controllable generation, real life GANs."
+    },
+    {
+      "title": "UNIT - I - Security Concepts ",
+      "content": "Introduction, Information Security Policy, Standards, and  Practices; Types of Security  attacks,  Security  services,  Security  Mechanisms,  A  model  for  Network  Security. Cryptography  Concepts  and  Techniques :  Introduction,  plain  text  and  cipher  text,  substitution techniques,  transposition  techniques,  encryption  and  de cryption,  symmetric  and  asymmetric  key cryptography, steganography"
+    },
+    {
+      "title": "UNIT - II - Symmetric key Ciphers",
+      "content": "Block Cipher principles, DES, AES, Blowfish, Block cipher operation, Stream  ciphers,  RC4.   Asymmetric  key  Ciphers:  Principles  of  public  key  cryptosystems,  RSA algorithm, Diffie - Hellman Key Exchange."
+    },
+    {
+      "title": "UNIT - III - Cyptographic   Hash   Functions",
+      "content": "Message   Authentication,   Secure   Hash   Algorithm   (SHA - 512).   Message authentication   codes:   Authentication   requirements,   HMAC,   Digital   signatures,   Elgamal Digital Signature Scheme."
+    },
+    {
+      "title": "UNIT – IV - Key   Management   and   Distribution",
+      "content": "Symmetric   Key   Distribution   Using   Symmetric   &   Asymmetric Encryption,  Distribution  of  Public  Keys,  Kerberos,  X.509  Authentication  Service,  Public  –   Key Infrastructure.   E - Mail   Security:   Pretty   Good   Privacy,   S/MIME. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT – V - IP   Security",
+      "content": "IP   Security   overview,   IP   Security   architecture,   Authentication   Header,   Encapsulating security payload.   Transport - level Security:  Web security considerations, Secure Socket Layer and Transport Layer Security, HTTPS, Secure Shell (SSH).   Case   Studies :   Secure   Multiparty   Calculation,   Single   sign On. Advanced Topics:   Introduction to Quantum Cryptography, Security Models and Analysis ."
+    }
+  ],
+  "22EEM01": [
+    {
+      "title": "MODULE  - 1:  Course Introduction  -   Need, Basic Guidelines, Content and Process for Value",
+      "content": "Education    Purpose and motivation for the course, recapitulation from Universal Human Values - I    Self - Exploration – what is it?   -    Its content  and process; ‘Natural Acceptance’ and    Experiential Validation -   as the process for self - exploration.    Natural acceptance of human values.    Definitiveness of Ethical Human Conduct.    Continuous Happiness and Prosperity -   A look at basic Human Aspirations.    Right  understanding, Relationship and Physical Facility -   the basic requirements for fulfilment of aspirations of every human being with their correct priority.    Understanding Happiness and Prosperity correctly -   A critical appraisal of the current Scenario.    Method   to fulfil the above human aspirations: understanding and living in harmony at various levels. Include practice sessions to discuss natural acceptance in human being as the innate acceptance for living  with  responsibility  (living  in  relationship,  harmony  a nd  co - existence)  rather  than  as arbitrariness in choice based on liking - disliking. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "MODULE -   2: Understanding Harmony in the Human Being  -   Harmony in Myself",
+      "content": "   Understanding human being as a co - existence of the sentient ‘I’ and the material ‘Body’    Understandin g the needs of Self (‘I’) and ‘Body’  -   happiness and physical facility    Understanding the Body as an instrument of ‘I’ (I being the doer, seer and enjoyer)    Understanding the characteristics and activities of ‘I’ and harmony in ‘I’    Understanding the harmony  of I with the Body: Sanyam and Health; correct appraisal of Physical needs, meaning of Prosperity in detail.    Programs to ensure Sanyam and Health. Include practice sessions to discuss the role others have played in making material goods available to me. Id entifying from one’s own life. Differentiate between prosperity and accumulation. Discuss program for ensuring health vs dealing with disease."
+    },
+    {
+      "title": "MODULE - 3: Understanding Harmony in the Family and Society -   Harmony in Human -   Human",
+      "content": "Relationship    Understanding  values in human - human relationship; meaning of Justice (nine universal values in relationships) and program for its fulfilment to ensure mutual happiness; Trust and Respect as the foundational values of relationship.    Understanding the meaning of Trust; Dif ference between intention and competence.    Understanding the meaning of Respect, Difference between respect and differentiation; the other salient values in relationship.    Understanding  the  harmony  in  society  (society  being  an  extension  of  family):  Resolutio n, Prosperity, fearlessness (trust) and co  - existence as comprehensive Human Goals.    Strategy for transition from the present state to Universal Human Order: a.   At the   level of individual: as socially and ecologically responsible engineers, technologists,   and managers. b.   At the level of society: as mutually enriching institutions and organizations. Include practice sessions to reflect on relationships in family, hostel and institute as extended family, real life examples, teacher - student relationship, goal of ed ucation etc. Gratitude as a universal value in relationships. Discuss scenarios. Elicit examples from students’ lives ."
+    },
+    {
+      "title": "MODULE  - 4:    Understanding  Harmony  in  Nature  and  Existence  -   Whole  existence  as",
+      "content": "Coexistence.    Understanding the harmony in Nature.    Interconnectedness and mutual fulfilment among the four orders of nature  -   recyclability and self - regulation in nature.    Understanding Existence as Co - existence of mutually interacting units in all  -   pervasive space.    Basis for Humanistic Education, Humanist ic Constitution and Humanistic Universal Order.    Holistic perception of harmony at all levels of existence.    Competence in professional ethics: a. Ability to utilize the professional competence for augmenting universal human order b. Ability Identify the sco pe and characteristics of people friendly and eco - friendly  production  systems,  c.  Ability  Identify  and  develop  appropriate  technologies  and management patterns for above production systems.    Case studies of typical holistic technologies, management models a nd production systems. Include practice sessions to discuss human being as cause of imbalance in nature (film “Home” can be used), pollution, depletion of resources and role of technology etc. Include practice Exercises and Case Studies will be taken up in   Practice (tutorial) Sessions e.g. To discuss the conduct as an engineer or scientist etc. MODE OF CONDUCT (L - T - P - C 0 - 1 - 0 - 0)    While analyzing and discussing the topic, the faculty mentor’s role is in pointing to essential elements to help in sorting them o ut from the surface elements. In other words, help the students explore the important or critical elements. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING    In the discussions, particularly during practice sessions (tutorials), the mentor encourages the student to connect with one’s own self and do self - observation, self - reflection, and self - exploration.    Scenarios may be used to initiate discussion. The student is encouraged to take up “ordinary” situations rather than” extra - ordinary” situations. Such observations and their analyses are shared and disc ussed with other students and faculty mentors, in a group sitting.    Tutorials (experiments or practical) are important for this course . The difference is that the laboratory is everyday life, and practical are how you behave and work in real life. Depending on the nature of topics, worksheets, home assignments and/or activities are included.    The practice sessions would also provide supp ort to a student in performing actions commensurate to his/her beliefs. It is intended that this would lead to the development of commitment, namely behaving and working based on basic human values.    It is advised to share the experience of the Faculty to t he class in a capsule form.    Involve more in evaluating the student by different activities with proper RUBRCCS Assessment: This is a compulsory credit course. The assessment is to provide a fair state of development of the student, so participation in classroom discussions, self -   assessment, peer assessment etc. will be used in evaluation. Example:"
+    },
+    {
+      "title": "Module - 4:                             10 M - Attendance & Attitude",
+      "content": "10 M The overall pass percentage is 50%. In case the student fails, he/she mus t repeat the course."
+    }
+  ],
+  "22CSE23": [
+    {
+      "title": "UNIT –   I",
+      "content": "RPA Foundations -   What is RPA  -   flavors of RPA -   history of RPA -   The Benefits of RPA -   The downsides of  RPA -   RPA Compared to BPO, BPM and BPA  -   Consumer Willingness for Automation - The Workforce of the  Future -   RPA Skills -   On - Premise Vs. the Cloud -   Web Technology -   Programming Languages and Low Code OCR - Databases - APls -   Al -   Cognitive Automation - Agile, Scrum, Kanban and Waterfall Devops Flowcharts."
+    },
+    {
+      "title": "UNIT – II",
+      "content": "RPA Platforms -   Components of RPA -   RPA Platforms - Abo ut Ui Path -   About UiPath  -   The future of automation  -   Record and PIay  -   Downloading and installing UiPath Studio  - Learning Ui Path Studio -   - Task recorder  -   Step by step examples using the recorder."
+    },
+    {
+      "title": "UNIT – III",
+      "content": "Sequence, Flowchart, and Control  Flow - sequencing the workflow -   Activities - Control flow, various types of loops, and decision making - Step - by step example using Sequence and Flowchart - Step - by - step example  using  Sequence  and  Control  Flow - Data  Manipulation - Variables  and  Scope  Collections - Argu ments  –   Purpose and useData table usage with examples Clipboard Management - File operation with step - by - step exampleCSV/Excel to data table and vice versa [with a step - by - step example). Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT – IV",
+      "content": "Handling Events  - Taking Control of the Controls -   Finding and   attaching windows -   Finding the 08 controlTechniques for waiting for a control -   Act on controls  -   mouse and keyboard activities -   Working with Ui Explorer -   Handling eventsRevisit recorder -   Screen Scraping -   When to use OCR -   Types of OCR availableHow to use O CR -   Avoiding typical failure points."
+    },
+    {
+      "title": "UNIT – V",
+      "content": "Exception Handling, Debugging, and Logging -   Exception handling -   Common exceptions and ways to handle them -   Logging and taking screenshots Debugging techniques -   Collecting crash dumps -   Error reporting, Industry U se case, Future of RPA."
+    }
+  ],
+  "22CSE25": [
+    {
+      "title": "UNIT  -   I",
+      "content": "Era of  Cloud Computing   –   Motivation, Elastic Computing and advantages -   Multi - Tenant clouds, Elastic   computing, Virtualized servers uses, Business model for Cloud Providers. Types of Clouds and Cloud Providers,   Multi - Cloud, Hyperscalers, advantages of clouds;"
+    },
+    {
+      "title": "UNIT  -   II",
+      "content": "Virtualization  and  Containers  - Virtual  machines,   hypervisor,  approaches  to  virtualization, advantages and   disadvantages of VMs, Virtual I/O devices, VM migration; Traditional apps and elasticity on demand, isolation   facilities   in   an   OS,   Docker  containers, Docker Terminology and Development tools."
+    },
+    {
+      "title": "UNIT  -   III",
+      "content": "Virtual Networks  –   Goals of a data center network, Network hierarchies, capacity, Fat Tree Designs. Link   aggregation,   VLANS,   VXLAN,   NAT,   Managing   virtualization   and   mobility,   SDNs,   openflow protocol,   Programming networks;   Virtual   Storage :   NAS, SAS,   mapping virtual   disks   to   physical disks."
+    },
+    {
+      "title": "UNIT  -   IV",
+      "content": "Automation and Cloud Programming  -   Need of automation, levels, AIops, automation tools, automation of   manual data center practices, evolution of automation;  Orchestration:  legacy of automating  procedures,  larger   scope  of  automation,  Kubernetes  MapReduce,  Microservices, Serverless computing, event processing, DevOps,   Edge Computing   and   IIoT. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   V",
+      "content": "Cloud   security   and   Privacy   –   cloud   specific   problems,   zero   trust   security   model,   identity management,   privileged  access   management(PAM),   AI   technologies   and  their  effects   on   their security,   Protection   of   remote   access   and   privacy   in   a   cloud   environment,   back   doors,   side   channels and   other   concerns,   firewalls"
+    }
+  ],
+  "22CSE32": [
+    {
+      "title": "UNIT - I - Introduction   to   Cyber Crime",
+      "content": "Cyber Crime:   Definition   and Origins   of   the Word,   Cybercrime and Information Security, Classification of Cyber Crimes, Cyber Crime: The Legal Perspective, Cyber Crime: An Indian  Perspective."
+    },
+    {
+      "title": "UNIT   -   II - Cyber   Offenses ",
+      "content": "Introduction,   How   Criminals   plan   the  Attacks,   Social   Engineering,   Cyber stalking,   Cyber   Cafe and Cybercrimes, Botnets: The Fuel   for Cybercrime, Attack Vector, Buffer Overflow, How Browsers Work, Google Dorking, Scanning the Entire Internet: Masscan and Shodan.  Building Secure Software:  Memory corruption attack, Vulnerability in programming la nguage, Virtual memory layout of C Program, Buffer overflow attack in C and C++, Pointer attacks, Heap Overflow, Integer  Overflow."
+    },
+    {
+      "title": "UNIT   -   III - Tools and Methods Used in Cybercrime",
+      "content": "Introduction,  Proxy  Servers  and  Anonymizers, Phishing, Password Cracking, K eyloggers and Spywares, Virus and Worms, Trojan Horse   and Backdoors,  Steganography,  DoS  and  DDoS  attacks,  Injection  Attacks,  SQL  Injection, Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Ransomware, Cross - Site Scripting Attacks, ARP Spoofing Attacks, SYN Floods and detecting SYN Scans."
+    },
+    {
+      "title": "UNIT     IV - Cyber Security",
+      "content": "The Legal Perspectives :  Cyber Crime and the Legal Landscape around the World, Need of Cyber laws: the Indian Context, The Indian IT Act, Amendments to IT Act, Positive and week areas of IT Act, Challenges to Indian Law and Cyber Crime Scena rio in India, Digital Signatures and the Indian IT Act, Data Protection Act 2019."
+    },
+    {
+      "title": "UNIT     V - Understanding Cyber Forensics",
+      "content": "Introduction, Need for Computer Forensics, Cyber Forensics and  Digital  Evidence,  Forensics  Analysis  of  Email,  Digital  Forensics  Life  Cycle,  Chain  of Custody  Concept,  Network  Forensics,  Challenges  in  Computer  Forensics.  Cyber Security: Organizational Implications:  Introduction,  Cost  of  Cybercrimes  and  IPR  issues,  Software Piracy,  Web  threats  for  Organizations,  Security   and  Privacy  Implic ations,  Social  media marketing: Security Risks and Perils for Organizations, Social Computing and the associated challenges for Organizations."
+    }
+  ],
+  "22CAE08N": [
+    {
+      "title": "UNIT - I - Introduction to  Reinforcement Learning",
+      "content": "- Examples, History of RL, Limitations, Scope, Elements of  Reinforcement  Learning,  An  n - armed  bandit  problem,  Action - value  methods,  Incremental Implementation, Tracking a nonstationary problem, Optimistic initial values, Upper -   Confi dence - Bound Action Selection, Gradient bandits."
+    },
+    {
+      "title": "UNIT - II - Finite Markov Decision Processes",
+      "content": "The Agent - Environment Interface, Goals and Rewards, Returns, Unified  Notation  for  Episodic  and  Continuing  Tasks,  The  Markov  Property,  Markov  Decision Processes, Value Functions, Optimal Value Functions, Optimality and Approximation."
+    },
+    {
+      "title": "UNIT - III - Monte Carlo  Methods",
+      "content": "Monte Carlo Prediction, Monte Carlo Estimation of Action Values, Monte Carlo Control, Monte Carlo Control without Exploring Starts, Off -   Policy prediction via importance sampling, Incremental implementation, Off - policy monte carlo control."
+    },
+    {
+      "title": "UNIT - I V - Temporal - Difference learning",
+      "content": "TD prediction, Advantages of TD prediction methods, Optimality of TD(0), Sarsa: On - policy TD control, Q - Learning: Off - policy TD control. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Eligibility Traces",
+      "content": "n - step TD prediction, The forward view of TD(λ),the backward view of TD(λ), Equivalences of forward and backward views, Sarsa(λ), Watkin’s Q(λ), Off - policy eligibility traces using importance sampling. Case studies:   TD - Gammon, Samuel’s Checkers Player. TE XT BOOKS : 1.   R. S. Sutton and A. G. Barto, \"Reinforcement Learning: An Introduction,\" 1st ed., MIT Press, 2020. 2.   M. Sugiyama, \"Statistical Reinforcement Learning: Modern Machine Learning Approaches,\" 1st ed., CRC Press, 2015."
+    }
+  ],
+  "22ADE76N": [
+    {
+      "title": "UNIT - I - Generative Modelling ",
+      "content": "What is Generative Modelling, Generative vs. Discriminative Models, The Rise of Generative Modelling, Generative Modelling Framework,  Core Probability Theory : Sample Space,  Probability  Density  Function,  Parametric  Modeling,  Likelihood,  Maximum  Likelihood Estimation,  Variational Autoencoder : Architecture, Exploring the Latent Space,"
+    },
+    {
+      "title": "UNIT - II - Generative Adversarial network   ",
+      "content": "Introduction, Deep Convolution GAN,  Wasserstein GAN with Gradient Penalty (WGAN - GP), Conditional GAN (CGAN),  Advanced GAN : Progressi ve GAN, StyleGAN, StyleGAN2"
+    },
+    {
+      "title": "UNIT - III - Diffusion Models",
+      "content": "Introduction, Denoising Diffusion Models (DDM) and its process,  Diffusion Schedules, The Reverse Diffusion Process,The U - Net Denoising Model -   Training, Sampling and Analysis, Stable Diffusion,  DALL .E 2 -   Architecture, training Process,  GLIDE, ImageGen Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Transformers ",
+      "content": "Introduction, Architecture -   Attention, Multi head Attention, Masking, Transformer Block, Encoder Based only  Transformers Architectures and Fine Tuning : BERT,  Generative LLMs : Introduction to LLMs, Decoder - only Transformers, Training LLMs, Fine - tuning LLMs, Introduction to various LLM: GPT, Falcon, LLaMA2"
+    },
+    {
+      "title": "UNIT - V - Prompt Engineering ",
+      "content": "Introduction, Prompt Engineering Strategies,  Advanced Prompting Methods : Chain of Thought,  Pro blem Decomposition, Self - refinement,  Ensembling,  RAG and Tool Use, Learning to Prompt:   Prompt Optimization,Soft Prompts"
+    }
+  ],
+  "22CSE15N": [
+    {
+      "title": "UNIT  -   I - Introduction to Software Testing",
+      "content": "Introduction, Evolution of Software Testing, Software Testing — Myths and Facts, Goals of Software Testing, Psychology for Software Testing, Software Testing Definitions, Model for Software Testing, Effective Software Testin g vs. Exhaustive Software Testing, Effective Testing is Hard, Software Testing as a Process, Schools of Software Testing, Software Failure Case Studies"
+    },
+    {
+      "title": "UNIT  -   II - Dynamic Testing",
+      "content": "Black - Box Testing Techniques, Boundary Value Analysis (BVA), Equivalence Cla ss Testing, State Table - Based Testing, Decision Table - Based Testing, Cause - Effect Graphing Based Testing, Error Guessing, Orthogonal Array Testing"
+    },
+    {
+      "title": "UNIT  -   III",
+      "content": "White - Box - Testing,  Data  Flow  Testing,  Mutation  Testing,Static  Testing,  Inspections,  Structured Wa lkthroughs, Technical Reviews, Validation Activites , Unit Validation Testing, Integration Testing, Function Testing, System Testing, Acceptance Testing , Security Testing"
+    },
+    {
+      "title": "UNIT  -   IV",
+      "content": "Regression Testing, Progressive vs. Regressive Testing, Regression Testi ng Produces Quality Software, Regression  Testability,  Objectives  of  Regression  Testing,  when  is  Regression  Testing  Done? Regression Testing Types, Defining Regression Test Problem, Regression Testing Techniques Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   V",
+      "content": "Test Management, Test Organization, Structure of Testing Group, Test Planning, Detailed Test Design and Test Specifications, Efficient Test Suite Management, Why Does a Test Suite Grow?, Minimizing the Test Suite and its Benefits, Defining Test Suite Minim ization Problem, Test Suite Prioritization, Types  of  Test  Case  Prioritization,  Prioritization  Techniques,  Measuring  the  Effectiveness  of  a Prioritized Test Suite"
+    }
+  ],
+  "22CSE26": [
+    {
+      "title": "UNIT  -   I - NLP",
+      "content": "A Primer , NLP in the Real World, NLP Tasks, NLP Levels, What Is Language? Building Blocks of Language, Challenges in NLP, Machine Learning and Overview Approaches to NLP, Heuristics - Based, Machine Learning, Deep Learning for NLP.  NLP Pipeline:  Data   Acquisition, Pr e - Processing Preliminaries Frequent   Steps, Advanced   Processing Feature   Engineering Classical   NLP/ML   Pipeline DL   Pipeline Modeling, Evaluation of Models, Post - Modeling   Phases."
+    },
+    {
+      "title": "UNIT  -   II - Text Representation ",
+      "content": "Vector Space Models Basic Vectorization Approach es, One - Hot Encoding Bag of Words, Bag of N - Grams, TF - IDF.   Distributed Representations : Word Embedding, Going Beyond Words, Distributed Representations, Word2Vec, Glove."
+    },
+    {
+      "title": "UNIT  -   III",
+      "content": "Traditional  Text  Classification   Applications  One  Pipeline,  Many  Classifiers,  Using  Neural Embeddings  in  Text  Classification  Deep  Learning  for  Text  Classification  Interpreting  Text Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Classification Models.   Deep Learning for Text Classification  CNNs for Text Classification, LSTMs for Text C lassification"
+    },
+    {
+      "title": "UNIT  -   IV - Chatbots",
+      "content": "Applications , A Taxonomy of Chatbots, Goal - Oriented Dialog, A Pipeline for Building Dialog Systems, Deep Dive into Components of a Dialog System, Dialog Act Classification,   Identifying Slots, Response Generation, Other  Dialog Pipelines, End - to - End  Approach, Deep Reinforcement Learning for Dialogue Generation, Rasa NLU."
+    },
+    {
+      "title": "UNIT  -   V - Real World NLP Applications",
+      "content": "Topic Modelling,   Text Summarization, Use Cases Setting Up a Summarizer: An Example Recommender Systems for Textual  Data Machine Translation Question - Answering Systems, Social Media, E - Commerce and Retail, Healthcare, Finance, and Law."
+    }
+  ],
+  "22CSE28": [
+    {
+      "title": "UNIT - I - ES6",
+      "content": "Introduction, Variables and Scoping, Arrow Functions and Default Parameters, Template Literals and Destructuring, Spread and Rest Operators, Enhanced Object Literals, Classes and Inheritance, Promises and Async Programming, Modules in  ES6, Iterators and Generators."
+    },
+    {
+      "title": "UNIT - II - MongoDB",
+      "content": "Introduction, Importance of NoSQL databases, Data types, Documents, nested Documents, CRUD Operations, Basic cursor methods: map, to Array, pretty, for Each, limit, count, sort, CRUD Operations, Data  Modelling & Schema Design, Indexing and Aggregation, Mongo Import/Export and Master/Slave Replication."
+    },
+    {
+      "title": "UNIT - III - ReactJS",
+      "content": "Introduction, Module import and export, State, Props, Components, Lifecycle, Stateful and stateless components, Events, Router, Forms,   Tables, Portals, CSS, Hooks."
+    },
+    {
+      "title": "UNIT - IV - NodeJS",
+      "content": "Creating Web Server, Functions, Buffer, Node Modules, Creating Web Server, Handling HTTP requests File System: Operations on file and Other I/O Operations.   Events: Event Emitter class, Inheriting Events and Re turning event emitter. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Express JS",
+      "content": "API methods  -   GET, POST, PUT, DELETE, Request & response objects, URL and Query parameters, Routing, The model - view - controller pattern, Middleware .  Templates: EJS, PUG"
+    }
+  ],
+  "22CSE30": [
+    {
+      "title": "UNIT  -   I - Introduction to IoT",
+      "content": "Introduction to Internet of Things, Sensing, Actuation, Basics of Networking, Connectivity Technologies, Sensor Networks Machine - to - Machine Communications Interoperability in IoT, IoT Applications."
+    },
+    {
+      "title": "UNIT  -   II - IoT  Hardware  Components",
+      "content": "Introduction  to  Arduino  Programming  Integration  of  Sensors  and Actuators with Arduino, Introduction to Raspberry Pi and programming, Implementation of IoT with Raspberry Pi"
+    },
+    {
+      "title": "UNIT  -   III - IoT data protocols",
+      "content": "MQTT, CoAP, AMQP, DDS, HTTP, WebSocket.   Network Pr otocols for IoT: 6LowPAN, RPL, IPV6, WiFi, Bluetooth, ZigBee, Z - Wave, LoRaWan, MQTT, XMPP"
+    },
+    {
+      "title": "UNIT  –   IV - IoT Application Development",
+      "content": "Solution framework for IoT applications -   Implementation of Device integration, Data acquisition and integration, Cloud and Fog Ecosystem for IoT, Device data storage - Unstructured data storage on cloud/local server, Comparison of Cloud providers, Authenti cation, Authorization of devices. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   V - Case Studies",
+      "content": "Smart Cities, Smart Homes, Connected Vehicles, Smart Grid, Agriculture, Healthcare, and Activity Monitoring"
+    }
+  ],
+  "22ITE11": [
+    {
+      "title": "UNIT - I",
+      "content": "Introduction to DevOps, DevOps Perspective, DevOps and Agile, Team Structure, Coordination, Barriers, the Cloud as a Platform: Features of the Cloud, DevOps Consequences of the Unique Cloud Features, Operations: Operations Services, Scrum, Kanban, and Agil e."
+    },
+    {
+      "title": "UNIT - II - Overview GIT and its principal command lines",
+      "content": "Installation, Configuration, Vocabulary, Git Command Lines, Understanding the GIT process and Gitflow pattern: Starting with the Git Process, Isolating your code with branches, Branching Strategy with Gitflow."
+    },
+    {
+      "title": "UNIT - III - Continuous Integration and Continuous Delivery",
+      "content": "Technical Requirements CI/CD principles, Using a package manager in the CI/CD process, Using Jenkins for CI/CD implementation, Using GitLab CI."
+    },
+    {
+      "title": "UNIT - IV - Containerizing your application with Docker",
+      "content": "Installing Docker, Creating Docker file, Building and running a container on a local machine, pushing an Image to Docker Hub, Deploying a container to ACI with CI/CD pipeline. Using Docker for running command Li ne tools, Introduction to Kubernetes Tools: Docker Compose, Docker Swarm Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V",
+      "content": "Getting Started with Docker Composer, Deploying a Docker compose containers in ACI, Installing Kubernetes, First example of Kubernetes application of deployment, Deploying the   code: The Puppet master and Puppet agents, Ansible, PalletOps, Deploying with SaltStack, DevOps Best Practices, Tools: Ansible, Saltstack"
+    }
+  ],
+  "22EEO01": [
+    {
+      "title": "UNIT - I - Various forms of   Energy   and its features",
+      "content": "Electricity generation methods using different energy sources such as Solar energy, wind energy, Bio - mass energy, and Chemical energy such as fuel cells. Energy Scenario in India,  Impact of Energy on economy, development, and environment sectors of national and international perspective."
+    },
+    {
+      "title": "UNIT - II - Energy   Management - I",
+      "content": "Defining  Energy  Management,  need  for  Energy  Management,  Energy management techniques, importance of Energy Management , managing the Energy consumption, Energy Audit and Types, Energy Audit Instruments."
+    },
+    {
+      "title": "UNIT - III - Energy Management - II",
+      "content": "understanding Energy costs, bench marking, Energy performance, matching energy use to requirement, optimizing the input, fuel & Energy  substitution, material and Energy balance diagrams, Energy pricing, Energy and Environment, Energy Security"
+    },
+    {
+      "title": "UNIT - IV - Energy Efficient Technologies - I",
+      "content": "Importance of Energy Efficiency for Engineers, Energy Efficient Technology  in   Mechanical  engineering:  Compressed  Air  System,  Heating,  ventilation  and  air - Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING conditioning, Fans and blowers, Pumps and Pumping Systems,   Energy Efficient Technology in Electrical engineering:  Automatic Power Factor Controllers, Energy Efficient   Motors, soft   starters with energy sa ver,   variable speed   drives, energy efficient   transformers,   electronic ballast,   occupancy sensors, energy efficient lighting controls, space cooling, energy efficiency of lifts and escalator, energy saving   potential   of   each   technology."
+    },
+    {
+      "title": "UNIT - V - Energy Efficient Technologies - II",
+      "content": "Energy Efficient Technology in Civil Engineering:  Intelligent Buildings, And   Various Energy Efficiency Rating Systems for Buildings, Green Buildings Energy Efficiency: management of green   buildings,   importance   of   embodied   energy   in   selection   of   sustainable materials,   green   building   design,   waste   reduction/recycling,   rainwater   harvesting,   maintenance   of   the green   buildings,   green   building   certification,   Renewable   energy   applications. Energy   Efficient   Technology   in   Chemical   Engineering:  Green   chemistry,   Low   carbon   cements,   recycling paper."
+    }
+  ],
+  "22EGO01": [
+    {
+      "title": "UNIT - I",
+      "content": "Communication   –   Nature and process.  Channels of Communication   –   Downward, upward and horizontal communication. Barriers to communication.  Technical Communication   –   Definition, oral and written communication. Importance and need for technical communication. Nature of Technical Communication. Aspects and forms of tech nical communication. Technical communication Skills  – Listening, Speaking, Reading & Writing."
+    },
+    {
+      "title": "UNIT - II",
+      "content": "Technical Writing   –   Techniques of writing.  Selection of words and phrases in technical writing. Differences between technical writing and general writin g. Abstract and specific words. Sentence structure and requisites of sentence construction. Paragraph length and structure. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - III",
+      "content": "Business correspondence  –   Sales letters, letters of Quotation, Claim and Adjustment letters.  Technical Articles:   Nature  and significance, types. Journal articles and Conference papers, elements of technical articles."
+    },
+    {
+      "title": "UNIT - IV - Technical Reports",
+      "content": "Types, significance, structure, style and writing of reports. Routine reports, Project reports. Technical Proposals:   Definition, ty pes, characteristics, structure and significance."
+    },
+    {
+      "title": "UNIT - V - Mechanics of Meetings",
+      "content": "Preparation of agenda, participation, chairing and writing minutes of a meeting. Memorandum.  Seminars, workshops and conferences.  Technical Presentations:   Defining purpose, audience and locale, organizing content, preparing an outline, use of Audio Visual Aids, nuances of delivery, importance of body language and voice dynamics."
+    }
+  ],
+  "22CAO02": [
+    {
+      "title": "UNIT - I - Principle of Honesty",
+      "content": "Introduction to Ethical Intelligence, Understanding the  Principle of Honesty, Importance of Honesty in Personal and Professional Life, Real - world Examples and Case Studies, Exercises and Discussions on Applying Honesty in Decision - Making."
+    },
+    {
+      "title": "UNIT - II - Principle of Fairness",
+      "content": "Exploring the Principle of Fairness,  Equity and Equality in Decision - Making, The Role of Fairness in Workplace and Society, Case Studies  on Fairness Challenges, Strategies for Promoting Fairness."
+    },
+    {
+      "title": "UNIT - III - Principle of Responsibility",
+      "content": "Understanding the Principle of Responsibility, Accountabil ity in Decision - Making, Balancing Personal and Organizational Responsibility, Ethical Decision - Making Models, Role of Responsibility in Ethical Leadership."
+    },
+    {
+      "title": "UNIT - IV - Principle of Compassion",
+      "content": "Overview of the Principle of Compassion, Empathy and Sympathy in  Ethical Decision - Making,  Building  a  Compassionate  Workplace  Culture,  Addressing  Challenges  with Empathy, Practical Applications of Compassion Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Principle of Forgiveness",
+      "content": "Delving into the Principle of Forgiveness, The Power of Forgiveness in Resolvin g, Ethical Conflicts, Forgiveness in Leadership and Team Dynamics, Case Studies on the Positive Impact of Forgiveness, Cultivating a Forgiving Culture"
+    }
+  ],
+  "22MEO06": [
+    {
+      "title": "UNIT - I - Entrepreneurship",
+      "content": "Definition,  Characteristics  of  an  Entrepreneur,  Functions  of  Entrepreneurs, Entrepreneur   vs.   Intrapreneur,   First   Generation   Entrepreneur,   Women   Entrepreneurship,   Ideas   and   their Sources, Conception and Evaluation of Ideas.  Behavioral   Aspects   of   Entrepreneurs:   Personality: Determinants,   Attributes   and   Models,   Leadership:  Concepts  and  Models,  Values  and  Attitudes, Motivation Aspects."
+    },
+    {
+      "title": "UNIT - II - Indian Industrial Environment",
+      "content": "Competence, Opportunities and Challenges, Entrepreneurship and Economic Growth, Small Scale Industry in India, objectives, Linkage among Small, Medium and Heavy Industries, Types of Enterprises, Corporate Social Responsibility."
+    },
+    {
+      "title": "UNIT - III - Business Plan",
+      "content": "Int roduction, Elements of Business Plan and its salient features, Business Model Canvas, Technical Analysis, Profitability and Financial Analysis, Marketing Analysis, Feasibility Studies, Executive Summary. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT   -   IV - Project Management",
+      "content": "During construction  phase, project organization, project planning and control using  CPM,  PERT  techniques,  human  aspects  of  project  management.  Time  Management : Approaches of Time Management, their strengths and weaknesses. Time Management Matrix, Urgency Addiction."
+    },
+    {
+      "title": "UNIT   -   V - Startup",
+      "content": "Definition, Startup Ecosystem, Startup Incubator, Need for and Importance of Startups and Incubation   Centers.   Sources   of   Finance   and   Incentives   for   Startups.   Innovation,   Creativity,   Intellectual Property in Entrepreneurial Journey. Business firm R egistration Process in INDIA."
+    }
+  ],
+  "22BTO04": [
+    {
+      "title": "UNIT - I - Introduction  and  Basic  Biology",
+      "content": "Bioinformatics -   Introduction,  Scope  and  Applications  of Bioinformatics;   Basics of DNA, RNA, Gene and its structure, Protein and metabolic pathway; Central dogma of molecular biology; Genome sequencing, Human Genome Project."
+    },
+    {
+      "title": "UNIT - II - Biological Databases",
+      "content": "Introduction  to Genomic Data and Data Organization, types of databases, biological databases and their classification, Biological Databases  -   NCBI, SWISS PROT/Uniport, Protein Data Bank, Sequence formats; Information retrieval from biological databases; Data mining of biological databases"
+    },
+    {
+      "title": "UNIT - III - Sequence Analysis and Data Mining",
+      "content": "Scoring matrices,   Amino acid substitution matrices -   PAM and BLOSUM ;   Gap, Gap penalty;  Database similarity searching  -   BLAST, FASTA algorithms to analyze sequence data,  FASTA and BLAST  algorithms comparison; Data Mining -   Selection and Sampling, Pre - processing  and  Cleaning,  Transformation  and  Reduction,  Data  Mining  Methods,  Evaluation, Visualization, Designing new queries, Pattern Recognition and Discovery, Text Mining Tools Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Se quence Alignment and Phylogentics",
+      "content": "Sequence Alignment  –   Local and Global alignment;  Pairwise sequence alignment  –   Dynamic Programming method for sequence alignment  -   Needleman and Wunsch algorithm  and  Smith  Waterman  algorithm.  Multiple  sequence  alignment  -   M ethods  of  multiple sequence alignment, evaluating multiple alignments, applications of multiple sequence alignment. Concept of tree, terminology, Methods of phylogenetic analysis, tree evaluation  –   bootstrapping, jack knifing"
+    },
+    {
+      "title": "UNIT - V - Macromolecular  Stru cture  Prediction",
+      "content": "Gene  prediction,  -   neural  networks  method,  pattern discrimination  methods,  conserved  domain  analysis;  Protein  structure  basics,  protein  structure visualization, Secondary Structure predictions; prediction algorithms; Chou - Fasman and GOR m ethod, Neural  Network  models,  nearest  neighbor  methods,  Hidden - Markov  model,  Tertiary  Structure predictions; prediction algorithms; homology  modeling, threading and fold recognition, ab initio prediction."
+    }
+  ],
+  "22CSC57": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Perform encryption, decryption using the following Substitution techniques (i)   Ceaser cipher (ii) Playfair cipher iii) Hill Cipher 2.   Perform encryption and decryption using following Transposition techniques (i)   Rail fence ii) Row Transformation iii) Column Transformation. 3.   Implementation of Data Encryption Standard (DES) algorithm for Symmetric key encryption. 4.   Implementation of Advanced En cryption Standard (AES) algorithm for Symmetric key encryption. 5.   Implementation of RSA Asymmetric key encryption algorithm. 6.   Demonstrate how two parties can securely exchange secret keys over an insecure communication channel using the Diffie - Hellman key  exchange algorithm. 7.   Implementation of SHA - 256 cryptographic hash function. 8.   Implementation  of  Digital  Signature  Standard  (DSS)  for  generating  and  verifying  Digital Signatures. 9.   Implementation of Secure Socket Layer (SSL). 10.   Demonstrate Intrusion Detection  System (IDS) using any tool e.g. Snort or any other tools."
+    }
+  ],
+  "22CSE16N": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "Select one large Information System/Approach per each  team and device the following: 1.   Program to demonstrate Black box testing using TCase 2.   Mutation Testing of Loop Constructs Using Smart - MuVerf 3.   Static Verification of Array Bounds and Memory Safety Using CC - SolBMC through Symbolic and SMT - Based Testing 4.   Program   to demonstrate Web app tool testing using Selenium 5.   Program to demonstrate Dynamic Symbolic Executers using KLEE, Tracer - X 6.   Program to demonstrate a security testing and fuzzing tool using AFL 7.   Program to demonstrate a verifier using CBMC. 8.   Program to  demonstrate a system testing tool to report load and stress using JMeter."
+    }
+  ],
+  "22CSE27": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   Construct a basic NLP pipeline with data acquisition, text cleaning, and pre - processing steps like tokenization, stemming, and lemmatization. 2.   Convert text into vector representations using  Bag - of - Words and TF - IDF, and apply machine learning classifiers (e.g., Naive Bayes, SVM) to classify text. 3.   Generate and visualize word embeddings using Word2Vec/GloVe and analyze word similarities and analogies, also visualize using t - SNE . 4.   Build a sentime nt classification model using CNN and LSTM architectures on a dataset like IMDb or Twitter. 5.   Extract entities and identify parts of speech from raw text using pre - trained models or CRF models. 6.   Design a rule - based or ML - based chatbot with intent recognition,   dialog flow, and response generation. 7.   Build a simple end - to - end dialog system using seq2seq LSTM models. 8.   Apply Topic Modeling with LDA and NMF to uncover hidden topics from a document corpus using LDA and NMF, and visualize them. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING 9.   Perform extractive summar ization using TextRank and abstractive summarization using T5 or BART. 10.   Build a QA system using BERT or RoBERTa on datasets like SQuAD."
+    }
+  ],
+  "22CSE29": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "(Note: Setup a Node JS server in Visual Studio to run the following experiments applications) 1.   Explore and  practice the new features introduced in ES6. 2.   Build a class - based system (e.g., Person, Student) demonstrating inheritance, static methods, and arrow functions within methods. 3.   Perform basic CRUD operations on a MongoDB collection using the shell. 4.   Designing  the schema, applying the cursor methods to fetch the data and exporting the data for the given requirements of a collection. 5.   Develop React applications to demonstrate the use of class component, functional component, props and routing in React JS. 6.   Develop  an application to demonstrate the lifecycle of React JS. 7.   Write code to understand different hooks in React JS. 8.   Create a Node script that performs file operations like reading, writing, appending text. 9.   Create a REST API in Express with all CRUD operations ( GET, POST, PUT, DELETE). 10.   Case Study: Develop an application for Event Scheduling System 11.   The Event Scheduling System allows users to create, view, edit, and delete events with details like date, time, description, and location. Users can manage their schedu le efficiently. Extra features include a calendar view for easy visualization and the ability to filter upcoming or past events for better organization. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    }
+  ],
+  "22CSE31": [
+    {
+      "title": "LIST OF EXPERIMENTS :",
+      "content": "1.   Introduction to IoT equipment and perform necessary software installation. 2.   Write a program to interface LED/Buzzer with Arduino and to turn ON LED for 1sec after every 2 seconds. 3.   Write a program to interface Digital sensor PIR with Arduino and to turn ON  LED when motion detected. 4.   Write a program to interface DHT22 sensor with Arduino and display temperature and humidity readings. 5.   Write a program to interface servo motor with Raspberry Pi. 6.   Write a program to interface soil moisture sensor with Raspberry Pi and print moisture readings. 7.   Write a program to send and receive messages using MQTT protocol. 8.   Write a program to interface flame/smoke sensor with Arduino /Raspberry Pi and give an alert message when flame/smoke is detected. 9.   Write a program to upload sensor data to local/cloud server using wifi. 10.   Implement Smart Home Automation System using Arduino/Raspberry Pi."
+    }
+  ],
+  "22ITE12": [
+    {
+      "title": "LIST OF EXPERIMENTS:",
+      "content": "1.   To understand DevOps: Principles, Practices, and DevOps Engineer Role and Responsibilities. 2.   Explore the Version Control System tools for Source Code  Management., 3.   Install git and create a GitHub account and To execute various GIT operations. 4.   Installing and configuring Jenkins to set up a build job will help you comprehend continuous integration. 5.   To  understand  Jenkins  Master - Slave  Architecture  and  scale  your  Jenkins  standalone implementation by implementing slave nodes. 6.   To understand Docker Architecture and Container Life Cycle, install Docker and execute docker commands to manage images and interact with containers. 7.   To learn Docker file instructions,  build an image for a sample web application using Docker file. 8.   Deploy a containerized application on Kubernetes cluster. 9.   To install and Configure Pull based Software Configuration Management and provisioning tools using Puppet. 10.   To learn Software Configurat ion Management and provisioning using Puppet Blocks(Manifest, Modules, Classes, Function)"
+    }
+  ],
+  "22CSC38N": [],
+  "22CSC37N": [],
+  "22CEM01": [
+    {
+      "title": "UNIT - I - Environmental  Studies",
+      "content": "Definition,   Scope   and   importance,   need   for   public   awareness.  Natural resources:  Use  and over utilization of Natural Resources  -   Water resources, Food resources, Forest resources,   Mineral   resources,   Energy   resources,   Land   resources."
+    },
+    {
+      "title": "UNIT – II - Ecosystems",
+      "content": "Concept of an ecosystem, structure and function   of an ecosystem, role of producers, consumers   and  decomposers,  energy  flow  in  an  ecosystem,  food  chains,  food  webs,  ecological pyramids, Nutrient cycling,   Bio - geo   chemical   cycles,   Terrestrial   and   Aquatic   ecosystems."
+    },
+    {
+      "title": "UNIT – III - Biodiversity",
+      "content": "Genetic, species and ecosystem biodiversity,  Bio - geographical classification of India, India  as  a   Mega  diversity  nation.  Values  of  biodiversity,  hot - spots  of  biodiversity,  threats  to biodiversity, endangered and   endemic   species   of   India, methods   of   conservation   of   biodiversity."
+    },
+    {
+      "title": "UNIT – IV - Environmental   Pollution",
+      "content": "Cause,   effects   and   control   measures   of   air   pollution,   water   pollution,   marine pollution,   soil   pollution,   noise   pollution   and   Solid   waste   management,   nuclear   hazards.  Environmental Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Legislations:  Environment protection Act, Air, Water, Forest &  Wild life Acts, issues involved   in enforcement   of   environmental   legislation,   responsibilities   of   state   and   central   pollution   control   boards"
+    },
+    {
+      "title": "UNIT – V - Social   issues   and   the   environment",
+      "content": "Water   conservation   methods:   Rain   water   harvesting   and   watershed management, Environmental ethics, Sustainable development and Climate change: Global   warming, Ozone   layer   depletion,   forest   fires,   and   Contemporary issues."
+    }
+  ],
+  "22CEO01": [
+    {
+      "title": "UNIT - I - Fundamental of smart city & Infrastructure",
+      "content": "Introduction of Smart City, Concept of smart city, Objective for smart  cities. Need to develop smart city, Challenges of managing infrastructure in India and world, various types of Infrastructure systems, Infrastructures need assessment"
+    },
+    {
+      "title": "UNIT - II - Planning and development of Smart city Infrastructure",
+      "content": "Energy and ecology, solar   energy for smart city, Housing, sustainable green building, safety, security, disaster management, economy, cyber security."
+    },
+    {
+      "title": "UNIT - III - Intelligent transport systems",
+      "content": "Connected vehicles, autonomous vehicles, GPS, Navigation system, traffic safety  management, mobility services, E - ticketing."
+    },
+    {
+      "title": "UNIT - IV - Disaster  resilient  Infrastructure",
+      "content": "Electricity,  sanitation  and  water  supply  systems,  fire  hazard management, earthquake resilient structures, ICT tools. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Infrastructure Management",
+      "content": "System and P olicy for Smart city, integrated infrastructure management systems, worldwide policies for smart city, Government of India  -   policy for smart city, Smart cities in India, Case studies of smart cities"
+    }
+  ],
+  "22ADO01": [
+    {
+      "title": "UNIT - I - Artificial   Intelligence   Insight",
+      "content": "Artificial Intelligence: What and Why, History of AI , What is AI?,The Basics, AI   Environment, Challenges in AI,  Current work in AI   for environment, Customer   Experience (CX)   and   the   use   of   AI ,  Future   of   AI ,    Future   challenges   in AI"
+    },
+    {
+      "title": "UNIT - II - Influence   of AI   in   Machine   Learning",
+      "content": "Definition, What is Machine Learning, Importance of Machine Learning,   Types   of   Machine   Learning ,   Approaches   of   Machine   Learning   -   Machine Learning Algorithm, Programming  Languages,  Frameworks,  Databases,  Deployment  tools,  Methodology   for  Model Building, Machine learning methods, Statistical Measures, Application areas of Machine Learning, Me dical   Machine   Learning   , Influence   of   AI   and   ML   in   Clinical   and  Genomic   Diagnostics ."
+    },
+    {
+      "title": "UNIT - III - Artificial   Intelligence   in   Healthcare   sector   &   Assistive  Technology   (AT)",
+      "content": "AI in diagnosis of Genetic Diseases, Cancer, Diabetes,  AI in Diagnosis of Syndrome,   AI in diagnosis of Psychiatric Disorders, Depression,  Alzheimer’s   Disease, Autism   Spectrum   Disorder, Anxiety,    Parkinson’s Disease,  AI in other Diagnosis,  Infectious,  Lung and Brain Disease ,    Case   studies   on   AI   in   systems   Biology, AI technologies   in   Sy stems   Biology towards   Pharmacogenomics,    AI   in   Systems   Biology   for   Cancer   Cure, Applications of AI for COVID - 19 Pandemic,  Transformative impact of AI on AT, AI experience   and Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING AT   for   disables   people   in   India,   AI   Powered   technology   for   an   inclusive  world   ."
+    },
+    {
+      "title": "UNIT - IV - Artificial   Intelligence   in   Agriculture",
+      "content": "Need  of   AI   in  Agriculture,  Emerging  Agricultural Technologies,  Soil   and water sensors, Weather Tracking, Satellite Imaging Agriculture,  Automation Systems,    RFID   Technology ,  Potential   Agricultural   Domain   for  Modernization,    AI   transformation   in Agricultural   Scenarios."
+    },
+    {
+      "title": "UNIT - V - Artificial   Intelligence   in   Radiotherapy",
+      "content": "Importance of Artificial Intelligence in Radiotherapy , AI tools for automated treatment planning (ATP), Present ATP techniques, AI  applications, Advancements and Research Guidance in ATP, AI challenges  in ATP, AI in Intensity - modulated Radiotherapy (IMRT), AI for IMRT Dose Estimation,  AI for IMRT Planning Support,  AI   for Modeling IMRT outcome and plan deliverability,  AI for AUTO -   S egmentation of OAR in IMRT,  AI in Brachytherapy, AI in Radiotherapy Quality Assurance, Challenges associate with AI for Quality Assurance in RT, Future directions to improve AI - based Quality   Assurance in RT, AI   in Radiation Biology,  AI   in Radiation   Pro tection/Safety,    Motivations   to   develop   AI - Based   systems   for   Radiation protection   ."
+    }
+  ],
+  "22CHO02": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "History  and  scope,  classification  of  nanostructured  materials,  Fascinating nanostructures, applications of nanomaterials"
+    },
+    {
+      "title": "UNIT - II - Unique properties  of  nanomaterials",
+      "content": "Microstructure and  defects  in  nanocrystalline  materials  – dislocations, Twins, stacking faults and voids, Grain boundaries, triple junctions and disclinations. Effect of nano - dimensions on materials behavior  –   Elastic pr operties, magnetic properties, electrical properties, optical properties, thermal properties, and mechanical properties."
+    },
+    {
+      "title": "UNIT - III - Synthesis Routes",
+      "content": "Bottom - up approaches  –   PVD, CVD, sol - gel process, wet chemical synthesis and self - assembly. Top - down approa ches  –   mechanical alloying, nanolithography."
+    },
+    {
+      "title": "UNIT - IV - Tools  to  Characterize  Nanomaterials",
+      "content": "Scanning  electron  microscopy,  transmission  electron microscopy, x - ray diffraction, atomic force microscopy, nanoindentation"
+    },
+    {
+      "title": "UNIT - V - Applications of Nanomaterials ",
+      "content": "Nano - electronics, Micro -   and   Nano - electromechanical  systems (MEMS/NEMS),  Nano  sensors,  Nano  catalyst,  Food  and  Agriculture  Industry,  Cosmetics  and Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Consumer Goods, Structure and Engineering, Automotive Industry, Water Treatment   and  the Environment, Nano - med ical Applications, Textiles, Paints, Energy, Defense and Space Applications."
+    }
+  ],
+  "22EEO06": [
+    {
+      "title": "UNIT   - I - Introduction to Waste Management and Municipal Solid Waste Management ",
+      "content": "Classification of waste, Agro based, Forest residue, Industrial waste, e - Waste, Municipal Solid Waste Management, Fundamentals Sources, Composition, Generation  rates, Collection of waste, Separation, Transfer and Transport of waste, Treatment and disposal options."
+    },
+    {
+      "title": "UNIT   - II - Hazardous Waste Management and Treatment",
+      "content": "Hazardous waste identification and classification, Hazardous waste management: Generation, Storage  and collection, Transfer and transport, Processing, Disposal, Hazardous waste treatment: Physical and chemical treatment, Thermal treatment, Biological treatment, Pollution prevention and waste minimization, Hazardous wastes management in India."
+    },
+    {
+      "title": "UNIT  - III - Environmental Risk Assessment",
+      "content": "Defining risk and environmental risk, Parameters for toxicity quantification, Types of exposure, Bio - magnifications, Effects of exposure to toxic chemicals, Risk analysis and Risk matrix, Methods of risk assessment, Mitigati on and control of the risk, Case studies."
+    },
+    {
+      "title": "UNIT   - IV - Biological Treatment",
+      "content": "Solid and hazardous waste composting, Bioreactors, Anaerobic decomposition of solid waste, Principles of biodegradation of toxic waste, Inhibition, Co - Metabolism, Oxidative and reduc tive processes, Slurry phase bioreactor, In - situ - remediation. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT   - V: - Waste Disposal ",
+      "content": "Key issues in waste disposal, Disposal options and selection criteria, Sanitary landfill principle, Landfill processes, Landfill gas emission: Composition and  properties, Hazards, Migration, Control, Leach ate Formation: Composition and properties. Leach ate migration, Control, Treatment, Environmental  effects  of  landfill,  Landfill  operation  issues,  Design  and  construction,  Operation, Monitoring, Closure of land fills - Landfill remediation, National and International waste management programs."
+    }
+  ],
+  "22EGO02": [
+    {
+      "title": "UNIT - I - Understanding Gender",
+      "content": "Gender:   Why Should We Study It? (Towards a World of Equals: Unit  - 1) Socialization:   Making Women, Making Men (Towards a World of Equals: Unit  - 2) Introduction. Preparing for Womanhood. Growing up Male. First lessons in Caste. Different Masculinities."
+    },
+    {
+      "title": "UNIT - II - Gender and Biology",
+      "content": "Missing Women:   Sex Selection and Its Consequences (Towards   a World of Equals: Unit  - 4) Declining Sex Ratio. Demographic Consequences.  Gender Spectrum:   Beyond the Binary (Towards a World of Equals: Unit  - 10) Two or Many? Struggles with Discrimination."
+    },
+    {
+      "title": "UNIT - III - Gender and Labour",
+      "content": "Housework:   the Invisible Labour (T owards a World of Equals: Unit  - 3) “My Mother doesn’t Work.” “Share the Load”.   Women’s Work:   Its Politics and Economics (Towards a World of Equals: Unit  - 7) Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and Conditions of Work. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Issues of Violence",
+      "content": "Sexual Harassment:   Say No! (Towards a World of Equals: Unit  - 6) Sexual Harassment,  not  Eve - teasing -   Coping  with  Everyday  Harassment -   Further  Reading:  “Chupulu”. Domestic Violence:   Speaking Out (Towards a World of Equals: Unit  - 8) Is Home a Safe Place?  - When Women Unite [Fil m]. Rebuilding Lives. Additional Reading: New Forums for Justice. Thinking about Sexual Violence (Towards a World of Equals: Unit  - 11) Blaming the Victim - “I Fought for my Life….” -   Additional Reading: The Caste Face of Violence."
+    },
+    {
+      "title": "UNIT - V - Gender",
+      "content": "Co  –   Existe nce - Just Relationships:   Being Together as Equals (Towards a World of Equals:"
+    },
+    {
+      "title": "Unit  - 12) Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. - Additional Reading",
+      "content": "Rosa Parks - The Brave Heart."
+    }
+  ],
+  "22EGC03": [
+    {
+      "title": "UNIT - I - Verbal Aptitude",
+      "content": "Error Detection, Articles, Prepositions, Tenses, Concord and Transformation of Sentences - Jumbled  Words/Sentences -   Vocabulary,  Synonyms,  Antonyms,  One  Word  Substitutes, Idioms and Phrases, Word/Sentence/Text Completion -   Reading Comprehension."
+    },
+    {
+      "title": "UNIT - II - Grou p Discussion & Presentation Skills",
+      "content": "Dynamics of Group Discussion - Case Studies -   Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, Fluency and Accuracy, Coherence. Elements of Effective Presentation  –   Structure of a Presentation  –   Pre sentation tools  –   Body language -   Preparing an Effective PPT."
+    },
+    {
+      "title": "UNIT - III - Behavioural Skills",
+      "content": "Personal strength analysis - Effective Time Management -   Goal Setting -   Stress management.  Corporate Culture  –   Grooming and etiquette - Statement of Purpose (SOP). Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Mini Project",
+      "content": "Research - Hypothesis - Developing a Questionnaire - Data Collection - Analysis - General and Technical Report  -   Writing an Abstract  – Technical Report Writing - Plagiarism - Project Seminar."
+    },
+    {
+      "title": "UNIT - V - Interview Skills",
+      "content": "Cover Letter and Résumé writing  –   Structure and Presentation, Planning, Defining the Career Objective, Projecting ones Strengths and Skill - sets  –   Interviews: Concept and Process, Pre - Interview Planning, Opening Strategies, Answering Strategies, Mock Inte rviews."
+    }
+  ],
+  "22CSC39N": [],
+  "22CSO01N": [
+    {
+      "title": "UNIT - I - Web Basics",
+      "content": "WWW Browsers, Web Servers, URL, MIME, HTTPS.  Introduction HTML5:   basic tags, Images, Tables, Lists, Forms, Layout, Graphics, span and div tags. Grid, Cascading Style Sheets."
+    },
+    {
+      "title": "UNIT - II - XML",
+      "content": "Introduction, uses of XML, the Syntax of XML, XML Document  Structure, DTD, Namespaces, XML schemas, displaying Raw XML Documents, displaying XML documents with CSS."
+    },
+    {
+      "title": "UNIT - III - The  Basics  of  Java  script",
+      "content": "Primitive  operations  and  Expressions,  Arrays,  Functions,  Pattern Matching Using Regular Expressions, Document Obj ect Model, Element Access in JavaScript, Events and  Event  Handling,  Handling  Events  from  Body,  Button, Text  Box  and  Password  Elements. Dynamic Documents with Java Script:  Positioning Elements, Moving Elements, Dynamic Content.."
+    },
+    {
+      "title": "UNIT - IV - Django",
+      "content": "Introductio n,  Models,  Templates,  supported  data  bases,  URL  configuration.  Templates, Modifying and Improving the Templates, Creating a Form. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Applications",
+      "content": "Introduction to Ajax, Node.js and JSON.  Bootstrap:  Introduction to Bootstrap, bootstrap grid, bootstrap components.  Web Application Frameworks: AngularJS, JQuery."
+    }
+  ],
+  "22CSO02": [
+    {
+      "title": "UNIT - I - Introduction",
+      "content": "Database System Applications, Purpose of Database Systems, View of Data, Database Languages,  Database  Users  and  Administrators  Database  System  Architecture,  Application Architectures.  Database Design and E - R Model:   Basic concepts, Constraints, E - R Diagrams , E - R Design Issues, Extended E - R Features, Specialization and Generalization."
+    },
+    {
+      "title": "UNIT - II - Relational Model",
+      "content": "Structure of Relational Databases, Database Schema, Keys.  Structured Query Language:   Overviews, SQL Data Types, SQL Queries, Data Manipulation Language Set Operations, Aggregate Functions, Data Definition Language, Integrity Constraints, Null  Values, Views, Join Expression."
+    },
+    {
+      "title": "UNIT - III - Relational  Database  Design",
+      "content": "Undesirable  Properties  in  Relational  Database  Design,  Functional Dependencies, Trivial and Nontrivial Dependencies, Closure of Set of Functional Dependencies, Closure of Set of Attributes, Irreducible Set of Functional Dependencies, Normalization  –   1NF, 2NF, and 3NF, Dependency Pre servation, BCNF, Comparison of BCNF and 3NF."
+    },
+    {
+      "title": "UNIT - IV - Indexing",
+      "content": "Basic concepts, Dense and Sparse Indices, Secondary Indices, Tree - Structured Indexing, Indexed  Sequential  Access  Method  (ISAM),  B+  Tree  Index  Files.  Transaction  Management: Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING Transaction Concept   –   ACID Properties, States of Transaction, Implementation of Atomicity and Durability, Serializability."
+    },
+    {
+      "title": "UNIT - V - Concurrency Control",
+      "content": "Introduction, Lock - Based Protocols, Timestamp - Based Protocols.  Deadlocks Handling:  Deadlock Detection and Prevention.   Recovery System:  Failure Classification, Storage Structure, Recovery and Atomicity, Log - Based Recovery."
+    }
+  ],
+  "22CSO03": [
+    {
+      "title": "UNIT  -   I - Introduction",
+      "content": "Purpose of testing, Dichotomies, model for testing, consequences of bugs, taxonomy of bugs.  Flow graphs and Path testing:  Basic concepts of path testing, predicates, path  predicates and achievable paths, path sensitizing, path instrumentation, application of path testing."
+    },
+    {
+      "title": "UNIT  -   II - Transaction Flow Testing",
+      "content": "Transaction flows, transaction flow testing techniques. Dataflow testing: Basics of dataflow testing, strategies in d ataflow testing, application of dataflow testing.  Domain Testing:   domains and paths, Nice & ugly domains, domain testing, domain and interface testing, domains and testability."
+    },
+    {
+      "title": "UNIT  -   III - Paths,  Path  products  and  Regular  expressions",
+      "content": "Path  products  &  path  expression,  reduction procedure,  applications,  regular  expressions  &  flow  anomaly  detection.  Logic - Based  Testing: overview, decision tables, path expressions, kv charts, specifications. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT  -   IV - State, State Graphs and Transition  testing",
+      "content": "State graphs, good & bad state graphs, state testing, Testability tips."
+    },
+    {
+      "title": "UNIT  -   V - Graph Matrices and Application",
+      "content": "Motivational overview, matrix of graph, relations, power of a matrix, node reduction algorithm, building tools. (Student should be g iven an exposure to a tool like JMeter or Win - runner)."
+    }
+  ],
+  "22CSO04N": [
+    {
+      "title": "UNIT - I - Web Basics",
+      "content": "WWW Browsers, Web Servers, URL, MIME, HTTPS (SSL).  Introduction HTML5: basic tags, Images, Tables, Lists, Forms, Layout, Graphics, span and div tags. Grid, Cascading Style Sheets."
+    },
+    {
+      "title": "UNIT - II - The  Basics  of  Java  script",
+      "content": "Variables,  Primitive  data types,  Converting  Datatypes,  Operators, Expressions, Arrays properties and methods, Multi - dimensional Arrays, Logic Statements, Loops, Functions, Variable Scope in Functions."
+    },
+    {
+      "title": "UNIT - III - Object oriented  programming",
+      "content": "Classes, Objects, Constructors, Methods, Properties.  Intermediate JavaScript:   Pattern Matching Using Regular Expressions, Functions and the argument objects, JavaScript hoisting, using strict mode, JSON Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Document Object Model (DOM) ",
+      "content": "Basic DOM traversing, Element Access in the DOM, Events and Event Handling, Handling Events from Body, Button, Text Box and Password Elements.  Dynamic Documents with Java Script:  Positioning Elements, Moving Elements, Dynamic Content."
+    },
+    {
+      "title": "UNIT - V - Built - In Jav aScript Methods",
+      "content": "Parsing Numbers, Array Methods, String Methods, Number Methods, Math Methods, Date Methods."
+    }
+  ],
+  "22CSO05N": [
+    {
+      "title": "UNIT - I",
+      "content": "Java  Programming -   History  of  Java,  Java  buzzwords,  OOP  Concepts,  Data  types,  Variables, Constants, Scope and Life time of variables, Operators, Type conversion and casting, Control Flow Statements, arrays, simple java programs.  Classes and Methods:   concepts of classes, objects, methods, constructors, access control, static keyword, garbage collection, recursion."
+    },
+    {
+      "title": "UNIT - II",
+      "content": "Inheritance   –   Inheritance  Basics,  using  Super,  Types  of  Inheritance,  this  and  final  keyword, Polymorphism   –   Overloading methods and overloading constructors, Method Overriding, Dynamic Method dispatching, abstract classes and methods. Using Final with Inheritance, The Object Class, Object Casting."
+    },
+    {
+      "title": "UNIT - III",
+      "content": "Packages -   Defining, creating and accessing a package , importing packages.  Interfaces - Interfaces Vs Abstract classes, defining an interface, implement interfaces, extending interface."
+    },
+    {
+      "title": "UNIT - IV",
+      "content": "Exception handling   –   Exception Handling Fundamentals, Exception Types, try, Catch, throw, Throws , Finally built - in   exceptions, Create your own exception class.  Multi - threading -   thread life cycle, creating threads, synchronizing threads. Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - V - Files -   Streams, Byte streams, Character streams, Text input/output.  Java.util package ",
+      "content": "Collection classes - ArrayList, List, Tr eeSet, Iterator, HashMap ,StringTokenizer class,  Java.lang -   String Class"
+    }
+  ],
+  "22CSO06": [
+    {
+      "title": "UNIT - I - Introduction  to  Software  Engineering ",
+      "content": "Definition  and  importance  of  Software  Engineering, Characteristics of software ,Software crisis, Software engineering challenges and ethics, Software Development Life Cycle (SDLC),Software process models  –   Waterfall, Incremental, Spiral,  An Agile Developm ent: Agility, Agile Process, and Agile Process Models -   Extreme Programming (XP),Scrum"
+    },
+    {
+      "title": "UNIT - II",
+      "content": "Requirement  Engineering,  Types  of  requirements  –   Functional  and  Non - functional,  Eliciting Requirements,  Negotiating  Requirements,  and  Validating  Requirements.  So ftware  Requirements Analysis and Specification: Value of a Good SRS, Problem Analysis, Requirements Specification,"
+    },
+    {
+      "title": "UNIT - III - Software Project Management ",
+      "content": "Effort Estimation, Project Schedule and Staffing, Quality Planning, Risk Management, Estimation for S oftware Projects: Decomposition Techniques  -   Software Sizing, Problem - Based  Estimation,  An  Example  of  LOC - Based  Estimation,  An  Example  of  FP - Based Estimation, COCOMO Model Chaitanya Bharathi Institute of Technology (A) COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "title": "UNIT - IV - Software  Design  and  Architecture",
+      "content": "Principles  of  software  design  –   Modularity,  Abstraction, Cohesion, Coupling, Function - oriented modelling, Flow - oriented modelling - DFDs with Examples, UML modelling  –   Use Case Diagram, Class Diagram, Sequence Diagram, Activity Diagram, Software architectur e and architectural styles  –   Layered, Client - Server."
+    },
+    {
+      "title": "UNIT - V - Software Development and Testing",
+      "content": "Coding Principles and guidelines, Incremental Development of Code, Code Inspection  –   Planning,   Software testing  –   Unit, Integration, System, Acceptance testing, Testing techniques  –   Black - box and White - box, Test case design  –   Boundary value and Equivalence partitioning,  Quality Concepts  -   What is Quality, Software Quality, Objectives, Software Quality Attributes (McCall’s, HP)"
+    }
+  ]
+}
